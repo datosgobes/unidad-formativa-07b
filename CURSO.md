@@ -2,18 +2,18 @@
 module_id: unidad-formativa-01
 author: Equipo gestor de la plataforma datos.gob.es
 email: contacto@datos.gob.es
-date: 09/04/2026
+date: 09/06/2026
 version: 0.1.0.0
 language: es
 narrator: Spanish Female
 mode: Textbook
-title: Unidad 01 - Datos abiertos: conceptos básicos y beneficios
-comment: Esta unidad presenta los conceptos básicos, principios y beneficios de los datos abiertos.
-long_description: Unidades didácticas. Unidad 01 - Datos abiertos: conceptos básicos y beneficios. Más información en [datos.gob.es](https://datos.gob.es/)
+title: Unidad 07b - Visualización de datos
+comment: Esta unidad presenta los conceptos básicos, historia y tipos de visualización de datos. 
+long_description: Unidades didácticas. Unidad 07 - Visualización de datos. Más información en [datos.gob.es](https://datos.gob.es/)
 
 edit: true
 
-repository: https://github.com/datosgobes/unidad-formativa-01
+repository: https://github.com/datosgobes/unidad-formativa-07b
 
 logo:     https://cdn.jsdelivr.net/gh/datosgobes/unidad-formativa-00@main/assets/img/logo_dge_square.svg
 
@@ -29,20 +29,19 @@ font: Montserrat
 attribute: Iniciativa de datos abiertos del Gobierno de España [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 -->
 
-# Unidad 01 - Datos abiertos: conceptos básicos y beneficios
+# Unidad 07b - Visualización de datos
 
 <div  class="logo-principal">
 ![](https://raw.githubusercontent.com/datosgobes/unidad-formativa-00/refs/heads/main/assets/img/logo_conjunto.png)
 </div>
 
-Esta unidad didáctica ofrece una visión general de **qué son los datos abiertos**, los **conceptos clave** relacionados con la apertura de datos, sus **principios fundamentales** y los **beneficios** que aporta la reutilización de la información. 
+Esta unidad didáctica ofrece una visión general de la **visualización de datos contemporánea**, una **breve historia** de la visualización y los **tipos de visualización** más utilizados y útiles hoy en día. 
 
 Para consolidar lo aprendido, contarás con **ejercicios** en cada bloque, un **cuestionario final** y un **resumen** que recogerá las ideas más importantes.
 
 Para comenzar, te invitamos a ver un breve **vídeo introductorio** que ofrece una visión general de los conceptos fundamentales que exploraremos a lo largo de los distintos apartados. Este recurso audiovisual te permitirá situarte en el tema, comprender su importancia y anticipar las ideas clave que desarrollaremos con mayor profundidad.
 
 <center>**¡Adelante!**</center>
-
 
 
 !?[Vídeo descriptivo de la unidad](https://youtu.be/LAe0MN-A0FQ?si=IqDVUYPjhPmGXI4W)
@@ -65,19 +64,20 @@ También puedes ver la [versión en inglés](https://www.youtube.com/watch?v=S1R
 <div class="presentacion_contenedor">
   
   <div class="presentacion_fila">
-    <div class="caja-icono">📌</div><div class="caja-texto"><span class="etiqueta">Título:</span> Datos abiertos: conceptos básicos, principios y beneficios.</div>
+    <div class="caja-icono">📌</div><div class="caja-texto"><span class="etiqueta">Título:</span> Tipos y herramientas para la visualización de datos. </div>
   </div>
 
   <div class="presentacion_fila">
-    <div class="caja-icono">📋</div><div class="caja-texto"><span class="etiqueta">Descripción:</span> La unidad ofrece una visión general de qué son los datos abiertos, cómo se usan y qué beneficios aportan en términos de accesibilidad, reutilización, transparencia y valor social y económico.</div>
+    <div class="caja-icono">📋</div><div class="caja-texto"><span class="etiqueta">Descripción:</span> La unidad describe todos los elementos que hay que abordar a la hora de realizar una visualización de datos, desde el procesamiento de los datos de entrada para disponer del formato adecuado hasta a la capa de presentación para poder acceder a la visualización en un entorno web;finaliza con una revisión de los tipos más frecuentes de visualización contemporánea que podemos utilizar. En cada paso se recomiendan una serie de herramientas, siempre gratuitas y de acceso libre, a las que podemos recurrir para realizar las visualizaciones. .</div>
   </div>
 
   <div class="presentacion_fila">
-    <div class="caja-icono">👥</div><div class="caja-texto"><span class="etiqueta">Público objetivo:</span> publicadores y reutilizadores de datos abiertos, así como cualquier persona interesada en esta materia.</div>
+    <div class="caja-icono">👥</div><div class="caja-texto"><span class="etiqueta">Público objetivo:</span> 
+		Esta unidad didáctica está orientada a toda aquella persona que desee iniciarse en el mundo de la visualización contemporánea y que tenga interés en aprender todo el espectro de posibilidades que ofrecen las herramientas actuales. Esto incluye a aquellos interesados tanto en difundir datos de impacto social como a aquellos en entornos profesionales que utilicen datos abiertos. Las categorías profesionales que pueden beneficiarse de los contenidos de este curso son:   analistas de datos, periodistas de datos, desarrolladores, programadores, diseñadores gráficos e ilustradores, entre otros. </div>
   </div>
 
   <div class="presentacion_fila">
-    <div class="caja-icono">🎓</div><div class="caja-texto"><span class="etiqueta">Conocimientos previos:</span> no se precisan.</div>
+    <div class="caja-icono">🎓</div><div class="caja-texto"><span class="etiqueta">Conocimientos previos:</span>Esta unidad didáctica arranca desde los principios básicos de la visualización por lo cual puede ser seguida adecuadamente por cualquier usuario. No obstante, para el tratamiento de datos inicial, el manejo de un lenguaje de programación como R o Python es recomendable. Para la creación de proyectos de visualización se ofrecen toda una serie de herramientas desde muy básicas a más complejas. Asimismo, la familiaridad con lenguajes como JavaScript puede ayudar para el desarrollo de visualizaciones y frontales web que alberguen esas visualizaciones.</div>
   </div>
 
   <div class="presentacion_columna">
@@ -85,40 +85,66 @@ También puedes ver la [versión en inglés](https://www.youtube.com/watch?v=S1R
       <div class="fila"><div class="caja-icono">🎯</div><div class="caja-texto"><p class="subtitulo">Objetivos</p></div></div>
       
       <div  class="lista-contenido">
-- Establecer **conceptos básicos** relacionados con los datos abiertos tomando como referencia el marco legislativo vigente en España.
-- Reconocer los **principios generales** a tener en cuenta para asegurar que los datos abiertos son fácilmente reutilizables.
-- Descubrir los principales **beneficios económicos y sociales** que supone la apertura de datos públicos.
-- Conocer los **aspectos clave ligados al ecosistema de los datos** de cara a asegurar la generación de los beneficios apuntados.
+	  Los objetivos didácticos que cubre esta unidad didáctica son: 
+- Introducir **históricamente** el ámbito de la visualización de datos, explicando los motivos por los cuales empleamos visualizaciones y qué es la visualización contemporánea. 
+- Proporcionar **herramientas básicas** al analista de datos, periodista, desarrollador, programador, diseñador gráfico o ilustrador que desee iniciarse en el mundo de la visualización de datos contemporánea. 
+- Explicar los **formatos de datos** más populares que se utilizan en la actualidad para visualizar datos en entornos web, así como su adecuación según la tecnología que empleada y del tipo de visualización. 
+- Introducir las **cuatro grandes familias de visualización contemporánea**: representación de magnitudes, series temporales,  elementos interconectados y mapas y cartografía
       </div>
-      
     </div>
-    
     <div class="columna-mitad">
       <div class="fila"><div class="caja-icono">📑</div><div class="caja-texto"><p class="subtitulo">Contenidos</p></div></div>
       
       <div class="lista-contenido">
 1. Introducción
-2. Conceptos clave
-   - Bloque I: conceptos básicos
-   - Bloque II: conceptos relacionados con la publicación
-   - Bloque III: conceptos relacionados con la reutilización
-3. Principios de apertura de datos
-   - Principios Open Government
-   - Principios FAIRData (OGD)
-4. Beneficios de la reutilización de datos abiertos
-   - Beneficios económicos
-   - Beneficios sociales
-   - Beneficios para la propia Administración
+   - Breve historia de la visualización de datos
+   - Impacto social y empresarial de la visualización
+   - Perfil del desarrollador de visualizaciones de datos
+2. Tipos y herramientas
+   2.1 Formatos de datos para visualización
+    - CSV, TSV, TXT
+    - JSON
+    - GoogleSheets
+	2.2 Tipos de visualizaciones
+	- Magnitudes
+	- Series Temporales
+ 	- Redes y Jerarquías
+ 	- Cartografía y Mapas
+3. Frontales web
+   3.1 HTML y CSS
+	3.2 Javascript
+   3.3 Observable
       </div>
     </div>
   </div>
+
+
+  <div class="aviso_caja">
+	<div class="aviso_titulo">
+		⚠️ Aviso
+	</div>
+	<div class="aviso_contenido">
+El desembarco de nuevas tecnologías a lo largo de las últimas décadas no ha desbancado la creación de piezas de visualización artesanas, hechas fuera del mundo digital. Estas emplean todo tipo de materiales y técnicas que también se benefician de otros avances tecnológicos, y  permiten llegar al público de forma muy efectiva e impactante.
+	</div>
+</div>
+
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+El proyecto ShowYourStripes aborda el incremento de la temperatura a través de líneas de color. Este proyecto cuenta con representación en todo tipo de soportes más allá de los digitales. 
+
+https://showyourstripes.info/showcase 
+	</div>
+</div>
 
   <div class="presentacion_fila">
     <div class="caja-icono">🔍</div><div class="caja-texto"><span class="etiqueta">Guía de uso:</span> en la <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-00/main/CURSO.md#1" target="_blank" rel="noopener">Unidad 00</a> encontrarás información sobre las funcionalidades de las unidades, la estructura global, como reutilizar los materiales, etc.</div>
   </div>
 
   <div class="presentacion_fila">
-    <div class="caja-icono">🏷️</div><div class="caja-texto"><span class="etiqueta">Versión de la unidad:</span> v1.0.1</div>
+    <div class="caja-icono">🏷️</div><div class="caja-texto"><span class="etiqueta">Versión de la unidad:</span> v1.0.0</div>
   </div>
 
   <div class="presentacion_fila_fin">
@@ -132,28 +158,81 @@ También puedes ver la [versión en inglés](https://www.youtube.com/watch?v=S1R
 
 </div>
 
-
-
-
 *************************************************************************************************************
 
-<!-- id="introduccion" -->
+<!-- id="historia_0" -->
 ## Introducción
+
+### Breve historia de la visualización de datos
 
 {{|>}}
 *************************************************************************************************************
 
-En la sociedad actual **los datos se han convertido en un activo fundamental**, tanto para las personas como para las organizaciones. El dato, y su papel esencial en el desarrollo de tecnologías disruptivas como la inteligencia artificial, supone el factor diferencial de la revolución industrial y tecnológica en la que nos encontramos inmersos.
+La visualización existe probablemente desde antes incluso del desarrollo de la escritura y de los primeros sistemas alfabéticos por la humanidad. La representación de las estrellas en el firmamento, y, posteriormente, el desarrollo de cartografías en el plano terrestre fueron probablemente las primeras trazas de visualización que desarrolló el ser humano. 
 
-Los datos generados por las administraciones públicas fruto de su actividad —los **datos del sector público**— despiertan un gran interés:
+Ejemplo: En la Figura 1 se puede observar la distribución de estrellas de la constelación de Pegaso realizada por Johann Bayer en 1603, un ejemplo que recoge la práctica milenaria de referenciarnos dentro del espacio y el universo. 
 
-- Para la ciudadanía, porque son una herramienta clave para la **transparencia y la participación democrática**.
-- Para las empresas, porque representan una fuente valiosa para **mejorar la competitividad** en distintos sectores.
-- Para las propias administraciones, porque facilitan la **definición y optimización de políticas públicas**.
+<center>![Johann Bayer, Uranometría, 1603](media/bayer.jpg "Figura. Johann Bayer, Uranometría, 1603. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
 
-Los datos producidos por las administraciones en el ejercicio de sus funciones deben ponerse a disposición de la sociedad como **datos abiertos**: **accesibles y disponibles para todos, sin restricciones legales ni técnicas**.
+*************************************************************************************************************
 
-Los datos procedentes de múltiples ámbitos —geográfico, medioambiental, meteorológico, turístico, empresarial, educativo, entre otros— conforman un conjunto amplio, diverso y valioso. Publicados como datos abiertos, pueden y deben generar beneficios para toda la sociedad.
+<!-- id="historia_1" -->
+
+### Breve historia de la visualización de datos
+
+{{|>}}
+*************************************************************************************************************
+
+La observación astronómica trae consigo, de hecho, uno de los mayores giros conceptuales en la percepción que ha hecho el ser humano del conocimiento.
+
+Ejemplo: En 1694 Galileo Galilei publica su obra sobre la posición de las estrellas no visibles a simple vista gracias al uso de telescopios, al comienzo del desarrollo y uso de tales artilugios (Figura 2). 
+
+La información que se escondía en la bóveda celeste -y que se revela a través del telescopio- da pistas sobre un orden y una profundidad de conocimiento que, por entonces, solo era explorada de forma abstracta por creencias y religiones. Galileo enuncia el concepto de Oculata Certitudine, es decir, el hecho de que la verdad está en la observación de lo que vemos, una idea que anidó entonces en la sociedad occidental hasta nuestros días, y que se considera precursora del método científico y del desarrollo tecnológico. De esta forma, la verdad queda vinculada explícitamente al sentido visual. 
+
+<center>![Galileo Galilei, Pleiadum Constellatio, 1641.](media/galileo.jpg "Figura.Galileo Galilei, Pleiadum Constellatio, 1641. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
+
+*************************************************************************************************************
+
+<!-- id="historia_2" -->
+
+### Breve historia de la visualización de datos
+
+{{|>}}
+*************************************************************************************************************
+
+Con el avance científico, matemático y estadístico en los siglos posteriores se llega a creación de las primeras tablas en formato impreso, ricas en contenido, pero difíciles de interpretar a simple vista.Es en ese momento cuando surge la visualización moderna, utilizando los ejes cartesianos X e Y para la representación de información. No será hasta la segunda mitad del siglo XIX cuando la visualización contemporánea, tal y como la conocemos, comienza a consolidarse. 
+
+Ejemplos: 
+
+- Trabajos como los de Florence Nightingale, con todo su análisis estadístico de mortandad en la guerra de Crimea (Figura 3). 
+- Charles Minard describiendo la sangrienta campaña en el frente ruso de las tropas napoleónicas (Figura 4). 
+- W.E.B. duBois  (Figura 5) y sus estadísticas de la realidad socioeconómica de la población afroamericana tras la ilegalización de la esclavitud.
+
+Todos ellos pusieron la visualización a otro nivel, tanto en lo relativo al rigor numérico y citación de fuentes como en la adopción de una aproximación gráfica y estética absolutamente rupturista con el clasicismo de los ejes cartesianos de los siglos anteriores.
+
+<center>![Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856](media/florence.jpg "Figura.Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
+<center>! Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard ,1869.](media/minard.jpg "Figura. Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard ,1869. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
+<center>![Figura 5: Situación socioeconómica de la llamada "Black America", W.E.B. duBois, 1900.](media/dubois.jpg "FiguraFigura 5: Situación socioeconómica de la llamada "Black America", W.E.B. duBois, 1900. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
+
+*************************************************************************************************************
+
+<!-- id="historia_3" -->
+
+### Breve historia de la visualización de datos
+
+{{|>}}
+*************************************************************************************************************
+
+De esta forma se llega al siglo XX, donde las grandes tiradas de prensa popularizan definitivamente el uso de la visualización de datos y ésta pasa a formar parte de muchas de las narrativas periodísticas. El siglo XXI trae consigo la irrupción de Internet y el aumento de la capacidad de cálculo de los circuitos integrados basados en materiales semiconductores, ofreciendo potentes herramientas tanto de análisis como de visualización desplegando un universo de posibilidades impensables hace unas décadas, tanto de volumen de datos como de creatividad. 
+
+  <div class="aviso_caja">
+	<div class="aviso_titulo">
+		⚠️ Aviso
+	</div>
+	<div class="aviso_contenido">
+La revolución digital ha traído consigo,no solo el desarrollo de potentes herramientas de cálculo y diseño, sino también dispositivos electrónicos que basan su interacción con el ser humano, en gran medida, en lo visual a través de pantallas táctiles. Este fenómeno ha predispuesto a los usuarios a consumir información visual por encima de cualquier otro tipo de formatos, favoreciendo el uso de visualizaciones frente a la lectura atenta de texto. La visualización de datos se ve así impulsada por estos dispositivos y encuentra su lugar en la actualidad gracias a contar con un público habituado a consumir información visual. 
+	</div>
+</div>
 
 *************************************************************************************************************
 
