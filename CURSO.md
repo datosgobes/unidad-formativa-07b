@@ -684,7 +684,6 @@ El incremento de la capacidad computacional ha permitido el desarrollo en las ú
 	</div>
 	<div class="ejemplo_contenido">
 				<center>![Tres dimensiones](media/UD07_3D.jpg "Figura.Tres dimensiones. Fuente: [The Pudding] (https://pudding.cool/2018/10/city_3d/ )")</center>
-
 	</div>
 </div>
 
@@ -698,7 +697,6 @@ Tradicionalmente realizado con hexágonos, la clusterización en polígonos regu
 	</div>
 	<div class="ejemplo_contenido">
 						<center>![Agrupaciones](media/UD07_3D.jpg "Figura. Agrupaciones. Fuente: [Moritz Stefaner] (https://truth-and-beauty.net/projects/achingenzell )")</center>
-
 	</div>
 </div>
 
