@@ -50,7 +50,6 @@ Para comenzar, te invitamos a ver un breve **vídeo introductorio** que ofrece u
 También puedes ver la [versión en inglés](https://www.youtube.com/watch?v=S1Rvfu5mqfc)<!-- style="target: _blank" --> del vídeo
 </center>
 
- 
 
 ---
 
@@ -205,15 +204,17 @@ Con el avance científico, matemático y estadístico en los siglos posteriores 
 
 Ejemplos: 
 
-- Trabajos como los de Florence Nightingale, con todo su análisis estadístico de mortandad en la guerra de Crimea (Figura 3). 
-- Charles Minard describiendo la sangrienta campaña en el frente ruso de las tropas napoleónicas (Figura 4). 
-- W.E.B. duBois  (Figura 5) y sus estadísticas de la realidad socioeconómica de la población afroamericana tras la ilegalización de la esclavitud.
+Trabajos como los de Florence Nightingale, con todo su análisis estadístico de mortandad en la guerra de Crimea
+<center>![Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856](media/UD07_Florence.jpg "Figura.Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
+
+Charles Minard describiendo la sangrienta campaña en el frente ruso de las tropas napoleónicas
+<center>! Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard ,1869.](media/UD07_Minard.jpg "Figura. Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard ,1869. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
+
+W.E.B. duBois y sus estadísticas de la realidad socioeconómica de la población afroamericana tras la ilegalización de la esclavitud.
+<center>![Figura 5: Situación socioeconómica de la llamada "Black America", W.E.B. duBois, 1900.](media/UD07_DuBois.jpg "FiguraFigura 5: Situación socioeconómica de la llamada "Black America", W.E.B. duBois, 1900. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
 
 Todos ellos pusieron la visualización a otro nivel, tanto en lo relativo al rigor numérico y citación de fuentes como en la adopción de una aproximación gráfica y estética absolutamente rupturista con el clasicismo de los ejes cartesianos de los siglos anteriores.
 
-<center>![Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856](media/UD07_Florence.jpg "Figura.Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
-<center>! Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard ,1869.](media/UD07_Minard.jpg "Figura. Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard ,1869. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
-<center>![Figura 5: Situación socioeconómica de la llamada "Black America", W.E.B. duBois, 1900.](media/UD07_DuBois.jpg "FiguraFigura 5: Situación socioeconómica de la llamada "Black America", W.E.B. duBois, 1900. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
 
 *************************************************************************************************************
 
@@ -231,6 +232,7 @@ De esta forma se llega al siglo XX, donde las grandes tiradas de prensa populari
 		⚠️ Aviso
 	</div>
 	<div class="aviso_contenido">
+		
 La revolución digital ha traído consigo,no solo el desarrollo de potentes herramientas de cálculo y diseño, sino también dispositivos electrónicos que basan su interacción con el ser humano, en gran medida, en lo visual a través de pantallas táctiles. Este fenómeno ha predispuesto a los usuarios a consumir información visual por encima de cualquier otro tipo de formatos, favoreciendo el uso de visualizaciones frente a la lectura atenta de texto. La visualización de datos se ve así impulsada por estos dispositivos y encuentra su lugar en la actualidad gracias a contar con un público habituado a consumir información visual. 
 	</div>
 </div>
@@ -277,7 +279,7 @@ Trabajar en visualización de datos implica:
 	</div>
 	<div class="ejemplo_contenido">
 Kiko Llaneras </br>
-https://kiko.llaneras.es/en/ 
+https://kiko.llaneras.es/ 
 	</div>
 </div>
 
@@ -382,8 +384,7 @@ Estas siglas significan JavaScript Object Notation, y hacen referencia a una est
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-    Base de datos de las categorías de los publicadores en el portal de datos.gob.es en formato JSON.
-				<center>![Base de datos de las categorías de los publicadores en el portal de datos.gob.es en formato JSON.](media/UD07_JSON.jpg "Figura.Base de datos de las categorías de los publicadores en el portal de datos.gob.es en formato JSON.")</center>
+	<center>![Base de datos de las categorías de los publicadores en el portal de datos.gob.es en formato JSON.](media/UD07_JSON.jpg "Figura.Base de datos de las categorías de los publicadores en el portal de datos.gob.es en formato JSON.")</center>
 	</div>
 </div>
 
@@ -442,7 +443,9 @@ Tiene su origen en el scatter plot, círculos posicionados en un plano cartesian
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-    (https://yotka.org/missing-migrants/ )
+			<center>![Diagrama de burbujas.](media/UD07_Bubbles.jpg "Figura.Diagrama de burbujas. Fuente: [https://yotka.org/missing-migrants/] ")</center>
+		
+    ( )
 	</div>
 </div>
 
@@ -454,7 +457,7 @@ Muy popular para datos económicos.El treemap distribuye un espacio limitado en 
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-  (https://www.moodys.com/web/en/us/insights/data-stories/10-key-insurers-risks-in-charts.html )
+	<center>![Treemap](media/UD07_Treemap.jpg "Figura.Treemap. Fuente: [https://www.moodys.com/web/en/us/insights/data-stories/10-key-insurers-risks-in-charts.html] ")</center>
 	</div>
 </div>
 
@@ -466,7 +469,7 @@ Semejante al treemap, pero utilizando a la inversa el cálculo de Voronoi de los
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-   (https://www.moodys.com/web/en/us/insights/data-stories/10-key-insurers-risks-in-charts.html )
+	<center>![Diagrama de Voronoi](media/UD07_Voronoi.jpg "Figura.Diagrama de Voronoi. Fuente: [https://www.moodys.com/web/en/us/insights/data-stories/10-key-insurers-risks-in-charts.html] ")</center>
 	</div>
 </div>
 
@@ -478,7 +481,7 @@ Gráfico utilizado para representar trayectorias uniendo puntos mediante líneas
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-    (https://www.behance.net/gallery/121178815/Land-Defenders )
+			<center>![Paths](media/UD07_Paths.jpg "Figura.Paths. Fuente: [https://www.behance.net/gallery/121178815/Land-Defenders] ")</center>
 	</div>
 </div>
 
@@ -490,7 +493,7 @@ Gráfico que representa múltiples variables mediante ejes que se extienden desd
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-	https://www.behance.net/gallery/244863983/Graphics-for-the-Publications-Office-of-the-EU-25-26 
+					<center>![Araña](media/UD07_Spider.jpg "Figura.Paths. Fuente: [https://www.behance.net/gallery/244863983/Graphics-for-the-Publications-Office-of-the-EU-25-26 ] ")</center>
 	</div>
 </div>
 
@@ -513,7 +516,7 @@ Los ejes cartesianos, x e y, permiten asociar la dimensión temporal al eje X, m
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-    ([https://yotka.org/missing-migrants/](https://ig.ft.com/coronavirus-chart/ ) )
+	<center>![Ejes cartesianos](media/UD07_Axis.jpg "Figura.Ejes Cartesianos. Fuente: [https://ig.ft.com/coronavirus-chart/]")</center>
 	</div>
 </div>
 
@@ -526,7 +529,7 @@ El scroll vertical de los dispositivos digitales ha permitido la creación de di
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-    [([https://yotka.org/missing-migrants/])](https://www.visualcinnamon.com/portfolio/sciam-satellite-surge/ )
+			<center>![Ejes verticales](media/UD07_Vertical.jpg "Figura.Ejes verticales. Fuente: [https://www.visualcinnamon.com/portfolio/sciam-satellite-surge/]")</center>
 	</div>
 </div>
 
@@ -539,7 +542,7 @@ Siguiendo la tradición más oriental y redundando en la recursividad del tiempo
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-   [ [](https://www.behance.net/gallery/164954871/Wired-UK-Infographic-SpaceX-Rockets )
+					<center>![Ejes radiales](media/UD07_Radial.jpg "Figura.Ejes radialess. Fuente: [https://www.behance.net/gallery/164954871/Wired-UK-Infographic-SpaceX-Rockets ]")</center>
 	</div>
 </div>
 
@@ -552,7 +555,7 @@ La transmisión de flujos de unos nodos a otros adopta su mejor expresión en lo
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-[  (https://www.behance.net/gallery/17868143/Power-grid ) )
+	<center>![Diagrama de Sankey](media/UD07_Sankey.jpg "Figura.Diagrama de Sankey. Fuente: [https://www.behance.net/gallery/17868143/Power-grid ]")</center>
 	</div>
 </div>
 
@@ -576,7 +579,7 @@ La más básica de esas representaciones es una estructura en árbol en la cual 
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-    [](https://vis.csh.ac.at/zoonotic-web/ )
+			<center>![Nodos](media/UD07_Nodes.jpg "Figura.Nodos. Fuente: [zoonotic-web/](https://vis.csh.ac.at/zoonotic-web/ )")</center>
 	</div>
 </div>
 
@@ -589,7 +592,7 @@ Aprovechando el desarrollo de nuevas propuestas gráficas y la capacidad del len
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-    (https://www.fastcompany.com/3025003/how-dogs-evolved )
+				<center>![Nodos radiales](media/UD07_Nodes_Arc.jpg "Figura.Nodos radiales. Fuente: [how-dogs-evolved] (https://www.fastcompany.com/3025003/how-dogs-evolved )")</center>
 	</div>
 </div>
 
@@ -615,8 +618,8 @@ Dentro de la tradición, representar localizaciones o eventos a través de la la
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-   (https://climate-conflict.org/www/data-pages/hazards )
-	</div>
+	<center>![Puntos](media/UD07_Dots.jpg "Figura.Puntos. Fuente: [Moritz Stefaner](https://climate-conflict.org/www/data-pages/hazards )")</center>
+ 	</div>
 </div>
 
 **Trayectorias**
@@ -628,7 +631,7 @@ Las rutas, especialmente las correspondientes al transporte aéreo o marítimo, 
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-  (https://explorer.audubon.org/ )
+			<center>![Trayectorias](media/UD07_Trajectories.jpg "Figura.Trayectorias. Fuente: [Audubon]  (https://explorer.audubon.org/ )")</center>
 	</div>
 </div>
 
@@ -641,7 +644,7 @@ La división del territorio en márgenes y límites de diversa índole, tales co
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-(https://www.reuters.com/graphics/GERMANY-ELECTION/RESULTS/movaynkgova/ )
+			<center>![Coropletas](media/UD07_Coropletas.jpg "Figura.Coropletas. Fuente: [Reuters] (https://www.reuters.com/graphics/GERMANY-ELECTION/RESULTS/movaynkgova/ )")</center>
 	</div>
 </div>
 
@@ -654,7 +657,7 @@ Determinados productos satelitales o modelos numéricos para el estudio del sist
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-    (https://project-ukko.net/map.html )
+					<center>![Tiles](media/UD07_Tiles.jpg "Figura.Tiles. Fuente: [Mortiz Stefaner](https://project-ukko.net/map.html )")</center>
 	</div>
 </div>
 
@@ -667,7 +670,7 @@ La interpolación entre valores adyacentes en una superficie permite crear conto
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-  (https://abc30.com/post/central-california-map-fire-sierra-nevada-wildfire-danger/10843964/ )
+		<center>![Contornos](media/UD07_Contours.jpg "Figura.Contornos. Fuente: [ABC30]  (https://abc30.com/post/central-california-map-fire-sierra-nevada-wildfire-danger/10843964/ )")</center>
 	</div>
 </div>
 
@@ -680,7 +683,8 @@ El incremento de la capacidad computacional ha permitido el desarrollo en las ú
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-(https://pudding.cool/2018/10/city_3d/ )
+				<center>![Tres dimensiones](media/UD07_3D.jpg "Figura.Tres dimensiones. Fuente: [The Pudding] (https://pudding.cool/2018/10/city_3d/ )")</center>
+
 	</div>
 </div>
 
@@ -693,7 +697,8 @@ Tradicionalmente realizado con hexágonos, la clusterización en polígonos regu
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-(https://truth-and-beauty.net/projects/achingenzell )
+						<center>![Agrupaciones](media/UD07_3D.jpg "Figura. Agrupaciones. Fuente: [Moritz Stefaner] (https://truth-and-beauty.net/projects/achingenzell )")</center>
+
 	</div>
 </div>
 
