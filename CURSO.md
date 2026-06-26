@@ -236,10 +236,11 @@ La revolución digital ha traído consigo,no solo el **desarrollo de potentes he
 
 *************************************************************************************************************
 
-<!-- id="historia_0" -->
-## Introducción
+<!-- id="ejercicio_0" -->
 
 ### Ejercicio
+
+Sitúa en el tiempo las siguientes visualizaciones, identificando si el periodo de creación es anterior al XIX, si pertenece al siglo XIX o XX, o si por el contrario fue creada en el XXI. 
 
 {{|>}}
 *************************************************************************************************************
@@ -249,6 +250,48 @@ La revolución digital ha traído consigo,no solo el **desarrollo de potentes he
 - [( )] < XIX
 - [(X)] XIX - XX
 - [( )] XXI
+
+- <center>![Ejercicio 1, segunda cuestión](media/Ejercicio_2.png "Identifica el periodo temporal de esta visualización")</center>
+
+- [( )] < XIX
+- [(X)] XIX - XX
+- [( )] XXI
+
+- <center>![Ejercicio 1, tercera cuestión](media/Ejercicio_4.png "Identifica el periodo temporal de esta visualización")</center>
+
+- [( )] < XIX
+- [(X)] XIX - XX
+- [( )] XXI
+
+- <center>![Ejercicio 1, cuarta cuestión](media/Ejercicio_6.png "Identifica el periodo temporal de esta visualización")</center>
+
+- [( )] < XIX
+- [( )] XIX - XX
+- [(X)] XXI
+
+- <center>![Ejercicio 1, quinta cuestión](media/Ejercicio_1.png "Identifica el periodo temporal de esta visualización")</center>
+
+- [( )] < XIX
+- [(X)] XIX - XX
+- [( )] XXI
+
+- <center>![Ejercicio 1, sexta cuestión](media/Ejercicio_3.png "Identifica el periodo temporal de esta visualización")</center>
+
+- [( )] < XIX
+- [(X)] XIX - XX
+- [( )] XXI
+
+- <center>![Ejercicio 1, séptima cuestión](media/Ejercicio_5.png "Identifica el periodo temporal de esta visualización")</center>
+
+- [( )] < XIX
+- [( )] XIX - XX
+- [(X)] XXI
+
+- <center>![Ejercicio 1, octava cuestión](media/Ejercicio_7.png "Identifica el periodo temporal de esta visualización")</center>
+
+- [( )] < XIX
+- [( )] XIX - XX
+- [(X)] XXI
 
 *************************************************************************************************************
 
