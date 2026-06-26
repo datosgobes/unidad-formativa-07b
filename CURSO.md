@@ -738,7 +738,7 @@ Aprovechando el desarrollo de nuevas propuestas gráficas y la capacidad del len
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-				<center>![Nodos radiales](media/UD07_Arc.png "Figura 18. Nodos radiales. Fuente: [how-dogs-evolved] (https://www.fastcompany.com/3025003/how-dogs-evolved )")</center>
+				<center>![Nodos radiales](media/UD07_Arc.jpg "Figura 18. Nodos radiales. Fuente: [how-dogs-evolved] (https://www.fastcompany.com/3025003/how-dogs-evolved )")</center>
 	</div>
 </div>
 
