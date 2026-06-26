@@ -233,6 +233,23 @@ La revolución digital ha traído consigo,no solo el **desarrollo de potentes he
 	</div>
 </div>
 
+
+*************************************************************************************************************
+
+<!-- id="historia_0" -->
+## Introducción
+
+### Ejercicio
+
+{{|>}}
+*************************************************************************************************************
+
+<center>![Ejercicio 1, primera cuestión](media/Ejercicio_0.png "Identifica el periodo temporal de esta visualización")</center>
+
+- [( )] < XIX
+- [(X)] XIX - XX
+- [( )] XXI
+
 *************************************************************************************************************
 
 <!-- id="conceptos-clave" -->
