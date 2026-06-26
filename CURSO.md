@@ -251,13 +251,13 @@ Sitúa en el tiempo las siguientes visualizaciones, identificando si el periodo 
 - [(X)] XIX - XX
 - [( )] XXI
 
-- <center>![Ejercicio 1, segunda cuestión](media/Ejercicio_2.png "Identifica el periodo temporal de esta visualización")</center>
+- <center>![Ejercicio 1, segunda cuestión](media/Ejercicio_2.jpg "Identifica el periodo temporal de esta visualización")</center>
 
 - [( )] < XIX
 - [(X)] XIX - XX
 - [( )] XXI
 
-- <center>![Ejercicio 1, tercera cuestión](media/Ejercicio_4.png "Identifica el periodo temporal de esta visualización")</center>
+- <center>![Ejercicio 1, tercera cuestión](media/Ejercicio_4.jpg "Identifica el periodo temporal de esta visualización")</center>
 
 - [( )] < XIX
 - [(X)] XIX - XX
@@ -275,13 +275,13 @@ Sitúa en el tiempo las siguientes visualizaciones, identificando si el periodo 
 - [(X)] XIX - XX
 - [( )] XXI
 
-- <center>![Ejercicio 1, sexta cuestión](media/Ejercicio_3.png "Identifica el periodo temporal de esta visualización")</center>
+- <center>![Ejercicio 1, sexta cuestión](media/Ejercicio_3.jpg "Identifica el periodo temporal de esta visualización")</center>
 
 - [( )] < XIX
 - [(X)] XIX - XX
 - [( )] XXI
 
-- <center>![Ejercicio 1, séptima cuestión](media/Ejercicio_5.png "Identifica el periodo temporal de esta visualización")</center>
+- <center>![Ejercicio 1, séptima cuestión](media/Ejercicio_5.jpg "Identifica el periodo temporal de esta visualización")</center>
 
 - [( )] < XIX
 - [( )] XIX - XX
@@ -904,6 +904,65 @@ Tradicionalmente realizado con hexágonos, la **clusterización en polígonos re
     </div>
   </div>
 </div>
+
+*************************************************************************************************************
+
+<!-- id="ejercicio_0" -->
+
+### Ejercicio
+
+Identifica el tipo de visualización correspondiente con cada proyecto
+
+{{|>}}
+*************************************************************************************************************
+
+<center>![Ejercicio 2, primera cuestión](media/Ejercicio_8.png "Identifica el tipo de visualización")</center>
+
+- [( )] Nodos
+- [( )] Coropletas
+- [(X)] Sankey
+
+- <center>![Ejercicio 2, segunda cuestión](media/Ejercicio_9.png "Identifica el periodo temporal de esta visualización")</center>
+
+- [( )] Puntos
+- [( )] Ejes Cartesianos
+- [(X)] Ejes Radiales
+
+- <center>![Ejercicio 2, tercera cuestión](media/Ejercicio_10.jpg "Identifica el periodo temporal de esta visualización")</center>
+
+- [( )] Agrupacion (Binning)
+- [(X)] Teselas
+- [( )] Contornos
+
+- <center>![Ejercicio 2, cuarta cuestión](media/Ejercicio_11.jpg "Identifica el periodo temporal de esta visualización")</center>
+
+- [( )] Ejes Radiales
+- [( )] Nodos
+- [(X)] Nodos Radiales
+
+- <center>![Ejercicio 2, quinta cuestión](media/Ejercicio_12.jpg "Identifica el periodo temporal de esta visualización")</center>
+
+- [( )] Burbujas
+- [(X)] Puntos
+- [( )] Teselas
+
+- <center>![Ejercicio 2, sexta cuestión](media/Ejercicio_13.png "Identifica el periodo temporal de esta visualización")</center>
+
+- [( )] Contornos
+- [(X)] 3D
+- [( )] Teselas
+
+- <center>![Ejercicio 2, séptima cuestión](media/Ejercicio_14.jpg "Identifica el periodo temporal de esta visualización")</center>
+
+- [( )] Contornos
+- [( )] Paths
+- [(X)] Trayectorias
+
+- <center>![Ejercicio 2, octava cuestión](media/Ejercicio_16.png "Identifica el periodo temporal de esta visualización")</center>
+
+- [( )] Puntos
+- [( )] Burbujas
+- [(X)] Teselas
 
 *************************************************************************************************************
 
