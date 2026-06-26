@@ -238,7 +238,7 @@ La revolución digital ha traído consigo,no solo el **desarrollo de potentes he
 
 <!-- id="ejercicio_0" -->
 
-### Ejercicio
+### Ejercicio 1
 
 Sitúa en el tiempo las siguientes visualizaciones, identificando si el periodo de creación es anterior al XIX, si pertenece al siglo XIX o XX, o si por el contrario fue creada en el XXI. 
 
@@ -909,7 +909,7 @@ Tradicionalmente realizado con hexágonos, la **clusterización en polígonos re
 
 <!-- id="ejercicio_0" -->
 
-### Ejercicio
+### Ejercicio 2
 
 Identifica el tipo de visualización correspondiente con cada proyecto
 
@@ -922,43 +922,43 @@ Identifica el tipo de visualización correspondiente con cada proyecto
 - [( )] Coropletas
 - [(X)] Sankey
 
-- <center>![Ejercicio 2, segunda cuestión](media/Ejercicio_9.png "Identifica el periodo temporal de esta visualización")</center>
+- <center>![Ejercicio 2, segunda cuestión](media/Ejercicio_9.png "Identifica el tipo de visualización")</center>
 
 - [( )] Puntos
 - [( )] Ejes Cartesianos
 - [(X)] Ejes Radiales
 
-- <center>![Ejercicio 2, tercera cuestión](media/Ejercicio_10.jpg "Identifica el periodo temporal de esta visualización")</center>
+- <center>![Ejercicio 2, tercera cuestión](media/Ejercicio_10.jpg "Identifica el tipo de visualización")</center>
 
-- [( )] Agrupacion (Binning)
+- [( )] Voronoi
 - [(X)] Teselas
 - [( )] Contornos
 
-- <center>![Ejercicio 2, cuarta cuestión](media/Ejercicio_11.jpg "Identifica el periodo temporal de esta visualización")</center>
+- <center>![Ejercicio 2, cuarta cuestión](media/Ejercicio_11.jpg "Identifica el tipo de visualización")</center>
 
 - [( )] Ejes Radiales
 - [( )] Nodos
 - [(X)] Nodos Radiales
 
-- <center>![Ejercicio 2, quinta cuestión](media/Ejercicio_12.jpg "Identifica el periodo temporal de esta visualización")</center>
+- <center>![Ejercicio 2, quinta cuestión](media/Ejercicio_12.jpg "Identifica el tipo de visualización")</center>
 
 - [( )] Burbujas
 - [(X)] Puntos
 - [( )] Teselas
 
-- <center>![Ejercicio 2, sexta cuestión](media/Ejercicio_13.png "Identifica el periodo temporal de esta visualización")</center>
+- <center>![Ejercicio 2, sexta cuestión](media/Ejercicio_13.png "Identifica el tipo de visualización")</center>
 
 - [( )] Contornos
 - [(X)] 3D
 - [( )] Teselas
 
-- <center>![Ejercicio 2, séptima cuestión](media/Ejercicio_14.jpg "Identifica el periodo temporal de esta visualización")</center>
+- <center>![Ejercicio 2, séptima cuestión](media/Ejercicio_14.jpg "Identifica el tipo de visualización")</center>
 
 - [( )] Contornos
 - [( )] Paths
 - [(X)] Trayectorias
 
-- <center>![Ejercicio 2, octava cuestión](media/Ejercicio_16.png "Identifica el periodo temporal de esta visualización")</center>
+- <center>![Ejercicio 2, octava cuestión](media/Ejercicio_16.png "Identifica el tipo de visualización")</center>
 
 - [( )] Puntos
 - [( )] Burbujas
