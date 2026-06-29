@@ -64,16 +64,18 @@ También puedes ver la [versión en inglés](https://www.youtube.com/watch?v=S1R
   </div>
 
   <div class="presentacion_fila">
-    <div class="caja-icono">📋</div><div class="caja-texto"><span class="etiqueta">Descripción:</span> La unidad describe todos los elementos que hay que abordar a la hora de realizar una visualización de datos, desde el procesamiento de los datos de entrada para disponer del formato adecuado hasta a la capa de presentación para poder acceder a la visualización en un entorno web;finaliza con una revisión de los tipos más frecuentes de visualización contemporánea que podemos utilizar. En cada paso se recomiendan una serie de herramientas, siempre gratuitas y de acceso libre, a las que podemos recurrir para realizar las visualizaciones. .</div>
+    <div class="caja-icono">📋</div><div class="caja-texto"><span class="etiqueta">Descripción:</span> 
+		La unidad describe <b>todos los elementos</b> que hay que abordar a la hora de realizar una visualización de datos, desde el procesamiento de los datos de entrada para disponer del formato adecuado hasta a la capa de presentación para poder acceder a la visualización en un entorno web;finaliza con una revisión de los <b>tipos más frecuentes de visualización contemporánea</b> que podemos utilizar. En cada paso <b>se recomiendan una serie de herramientas</b>, gratuitas y de acceso libre, a las que podemos recurrir para realizar las visualizaciones.</div>
   </div>
 
   <div class="presentacion_fila">
     <div class="caja-icono">👥</div><div class="caja-texto"><span class="etiqueta">Público objetivo:</span> 
-		Esta unidad didáctica está orientada a toda aquella persona que desee iniciarse en el mundo de la visualización contemporánea y que tenga interés en aprender todo el espectro de posibilidades que ofrecen las herramientas actuales. Esto incluye a aquellos interesados tanto en difundir datos de impacto social como a aquellos en entornos profesionales que utilicen datos abiertos. Las categorías profesionales que pueden beneficiarse de los contenidos de este curso son:   analistas de datos, periodistas de datos, desarrolladores, programadores, diseñadores gráficos e ilustradores, entre otros. </div>
+		Esta unidad didáctica está orientada a toda aquella persona que desee <b>iniciarse en el mundo de la visualización contemporánea</b> y que tenga interés en aprender todo el <b>espectro de posibilidades</b> que ofrecen las herramientas actuales. Esto incluye a aquellos interesados tanto en difundir datos de impacto social como a aquellos en <b>entornos profesionales que utilicen datos abiertos</b>. Las categorías profesionales que pueden beneficiarse de los contenidos de este curso son: analistas de datos, periodistas de datos, desarrolladores, programadores, diseñadores gráficos e ilustradores, entre otros. </div>
   </div>
 
   <div class="presentacion_fila">
-    <div class="caja-icono">🎓</div><div class="caja-texto"><span class="etiqueta">Conocimientos previos:</span>Esta unidad didáctica arranca desde los principios básicos de la visualización por lo cual puede ser seguida adecuadamente por cualquier usuario. No obstante, para el tratamiento de datos inicial, el manejo de un lenguaje de programación como R o Python es recomendable. Para la creación de proyectos de visualización se ofrecen toda una serie de herramientas desde muy básicas a más complejas. Asimismo, la familiaridad con lenguajes como JavaScript puede ayudar para el desarrollo de visualizaciones y frontales web que alberguen esas visualizaciones.</div>
+    <div class="caja-icono">🎓</div><div class="caja-texto"><span class="etiqueta">Conocimientos previos:</span>
+		Esta unidad didáctica arranca desde los principios básicos de la visualización por lo cual puede ser seguida adecuadamente por cualquier usuario. No obstante, para el tratamiento de datos inicial, <b>el manejo de un lenguaje de programación como R o Python es recomendable</b>. Para la creación de proyectos de visualización se ofrecen toda una serie de herramientas desde muy básicas a más complejas. Asimismo, la <b>familiaridad con lenguajes como JavaScript puede ayudar para el desarrollo de visualizaciones y frontales web </b>que alberguen esas visualizaciones.</div>
   </div>
 
   <div class="presentacion_columna">
@@ -114,14 +116,13 @@ También puedes ver la [versión en inglés](https://www.youtube.com/watch?v=S1R
       </div>
     </div>
   </div>
-
-
+  
   <div class="aviso_caja">
 	<div class="aviso_titulo">
 		⚠️ Aviso
 	</div>
 	<div class="aviso_contenido">
-El desembarco de nuevas tecnologías a lo largo de las últimas décadas no ha desbancado la creación de piezas de visualización artesanas, hechas fuera del mundo digital. Estas emplean todo tipo de materiales y técnicas que también se benefician de otros avances tecnológicos, y  permiten llegar al público de forma muy efectiva e impactante.
+El desembarco de nuevas tecnologías a lo largo de las últimas décadas no ha desbancado totalmente la creación de piezas de visualización artesanas, hechas fuera del mundo digital. Estas emplean todo tipo de materiales y técnicas que también se benefician de otros avances tecnológicos, y permiten llegar al público de forma muy efectiva e impactante.
 	</div>
 </div>
 
@@ -130,8 +131,7 @@ El desembarco de nuevas tecnologías a lo largo de las últimas décadas no ha d
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-El proyecto ShowYourStripes aborda el incremento de la temperatura a través de líneas de color. Este proyecto cuenta con representación en todo tipo de soportes más allá de los digitales. 
-[Show your stripes](https://showyourstripes.info/showcase )<!-- style="target: _blank" -->
+El proyecto <a href=https://showyourstripes.info/showcase" target="_blank" rel="noopener">ShowYourStripes</a> aborda el incremento de la temperatura a través de líneas de color. Este proyecto cuenta con representación en todo tipo de soportes más allá de los digitales. 
 	</div>
 </div>
 
