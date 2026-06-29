@@ -159,7 +159,9 @@ El proyecto <a href="https://showyourstripes.info/showcase" target="_blank" rel=
 <!-- id="historia_0" -->
 ## Introducción
 
-### Breve historia de la visualización de datos I
+En esta sección se realiza un breve recorrido por la historia de la visualización de datos, desde las primeras formas de representar mapas y cartografías hasta los recientes avances tecnológicos que han permitido su popularización. Y gracias a esa difusión se detallan igualmente los aspectos más relevantes que han permitido su integración tanto en el mundo de la prensa como en el mundo empresarial. Finalmente se especifican todas las áreas profesionales que cubren el proceso de desarrollo de un proyecto de visualización, desde su concepción gráfica hasta su implementación en un entorno web. 
+
+### Breve historia de la visualización de datos: La astronomía y el origen de la visualización 
 
 {{|>}}
 *************************************************************************************************************
@@ -169,15 +171,6 @@ La visualización existe probablemente desde **antes incluso del desarrollo de l
 Ejemplo: En la Figura 1 se puede observar la distribución de estrellas de la constelación de Pegaso realizada por Johann Bayer en 1603, un ejemplo que recoge la práctica milenaria de referenciarnos dentro del espacio y del universo. 
 
 <center>![Johann Bayer, Uranometría, 1603](media/UD07_Bayer.jpg "Figura 1. Johann Bayer, Uranometría, 1603. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
-
-*************************************************************************************************************
-
-<!-- id="historia_1" -->
-
-### Breve historia de la visualización de datos II
-
-{{|>}}
-*************************************************************************************************************
 
 La observación astronómica trae consigo, de hecho, uno de los **mayores giros conceptuales** en la percepción que ha hecho el ser humano del conocimiento.
 
@@ -191,7 +184,7 @@ La información que se escondía en la bóveda celeste -y que se revela a travé
 
 <!-- id="historia_2" -->
 
-### Breve historia de la visualización de datos III
+### Breve historia de la visualización de datos: La revolución del siglo XIX en la visualización contemporánea
 
 {{|>}}
 *************************************************************************************************************
@@ -211,16 +204,6 @@ W.E.B. duBois y sus estadísticas de la **realidad socioeconómica de la poblaci
 
 Todos ellos pusieron la visualización a otro nivel, tanto en lo relativo al **rigor numérico y citación de fuentes** como en la adopción de una **aproximación gráfica y estética absolutamente rupturista** con el clasicismo de los ejes cartesianos de los siglos anteriores.
 
-
-*************************************************************************************************************
-
-<!-- id="historia_3" -->
-
-### Breve historia de la visualización de datos IV
-
-{{|>}}
-*************************************************************************************************************
-
 De esta forma se llega al siglo XX, donde las **grandes tiradas de prensa popularizan definitivamente el uso de la visualización de datos** y ésta pasa a formar parte de muchas de las narrativas periodísticas. El siglo XXI trae consigo la irrupción de Internet y el aumento de la capacidad de cálculo de los circuitos integrados basados en materiales semiconductores, ofreciendo potentes herramientas tanto de análisis como de visualización desplegando un universo de posibilidades impensables hace unas décadas, tanto de volumen de datos como de creatividad. 
 
   <div class="aviso_caja">
@@ -232,7 +215,6 @@ De esta forma se llega al siglo XX, donde las **grandes tiradas de prensa popula
 La revolución digital ha traído consigo,no solo el **desarrollo de potentes herramientas de cálculo y diseño**, sino también dispositivos electrónicos que basan su interacción con el ser humano, en gran medida, en lo visual a través de pantallas táctiles. Este fenómeno ha **predispuesto a los usuarios a consumir información visual** por encima de cualquier otro tipo de formatos, favoreciendo el uso de visualizaciones frente a la lectura atenta de texto. La visualización de datos se ve así impulsada por estos dispositivos y encuentra su lugar en la actualidad gracias a contar con **un público habituado a consumir información visual**. 
 	</div>
 </div>
-
 
 *************************************************************************************************************
 
