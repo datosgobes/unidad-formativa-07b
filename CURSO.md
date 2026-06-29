@@ -168,36 +168,49 @@ La difusión contemporánea de la visualización nos permite destacar los aspect
 
 Finalmente se especifican **todas las áreas profesionales** que cubren el proceso de desarrollo de un proyecto de visualización, desde su concepción gráfica hasta su implementación en un entorno web, entre los que se encuentran:
 
-- Análisis de datos
-- Geometría
-- Diseño gráfico
-- Periodismo
-- Desarrollo web
+- **Análisis de datos**
+- **Geometría**
+- **Diseño gráfico**
+- **Periodismo**
+- **Desarrollo web**
 
-### Breve historia de la visualización de datos: La astronomía y el origen de la visualización 
+### La astronomía y el origen de la visualización 
 
 {{|>}}
 *************************************************************************************************************
 
 La visualización existe probablemente desde **antes incluso del desarrollo de la escritura** y de los primeros sistemas alfabéticos por la humanidad. La representación de las estrellas en el firmamento, y, posteriormente, el desarrollo de cartografías en el plano terrestre fueron probablemente las **primeras trazas de visualización** que desarrolló el ser humano. 
 
-Ejemplo: En la Figura 1 se puede observar la distribución de estrellas de la constelación de Pegaso realizada por Johann Bayer en 1603, un ejemplo que recoge la práctica milenaria de referenciarnos dentro del espacio y del universo. 
-
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+En la Figura 1 se puede observar la distribución de estrellas de la constelación de Pegaso realizada por Johann Bayer en 1603, un ejemplo que recoge la práctica milenaria de referenciarnos dentro del espacio y del universo. 
 <center>![Johann Bayer, Uranometría, 1603](media/UD07_Bayer.jpg "Figura 1. Johann Bayer, Uranometría, 1603. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
+	</div>
+</div>
 
 La observación astronómica trae consigo, de hecho, uno de los **mayores giros conceptuales** en la percepción que ha hecho el ser humano del conocimiento.
 
-Ejemplo: En 1694 Galileo Galilei publica su obra sobre la posición de las estrellas no visibles a simple vista gracias al uso del telescopio, al comienzo del desarrollo y uso de tales artilugios (Figura 2). 
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+En 1694 Galileo Galilei publica su obra sobre la posición de las estrellas no visibles a simple vista gracias al uso del telescopio, al comienzo del desarrollo y uso de tales artilugios (Figura 2). 
+<center>![Galileo Galilei, Pleiadum Constellatio, 1641.](media/UD07_Galileo.jpg "Figura 2. Galileo Galilei, Pleiadum Constellatio, 1641. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
+	</div>
+</div>
 
 La información que se escondía en la bóveda celeste -y que se revela a través del telescopio- da pistas sobre un orden y una profundidad de conocimiento que, por entonces, solo era explorada de forma abstracta por creencias y religiones. Galileo enuncia el concepto de **Oculata Certitudine**, es decir, el hecho de que la verdad está en la observación de lo que vemos, una idea que anidó entonces en la sociedad occidental hasta nuestros días, y que se considera precursora del método científico y del desarrollo tecnológico. De esta forma, **la verdad queda vinculada explícitamente al sentido visual**. 
 
-<center>![Galileo Galilei, Pleiadum Constellatio, 1641.](media/UD07_Galileo.jpg "Figura 2. Galileo Galilei, Pleiadum Constellatio, 1641. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
 
 *************************************************************************************************************
 
 <!-- id="historia_2" -->
 
-### Breve historia de la visualización de datos: La revolución del siglo XIX en la visualización contemporánea
+### La revolución del siglo XIX en la visualización contemporánea
 
 {{|>}}
 *************************************************************************************************************
