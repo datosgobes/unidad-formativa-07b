@@ -522,7 +522,7 @@ Tiene su origen en el scatter plot, **círculos posicionados en un plano cartesi
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-			<center>![Diagrama de burbujas.](media/UD07_Bubbles.png "Figura 8. Diagrama de burbujas. Fuente: [Missing Migrants](https://yotka.org/missing-migrants/)")</center>
+			<center>![Diagrama de burbujas.](media/UD07_Bubbles.png "Figura 8. Diagrama de burbujas. Fuente: https://yotka.org/missing-migrants/")</center>
 	</div>
 </div>
 
