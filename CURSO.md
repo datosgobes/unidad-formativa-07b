@@ -191,7 +191,7 @@ La visualización existe probablemente desde **antes incluso del desarrollo de l
 	</div>
 	<div class="ejemplo_contenido">
 En la Figura 1 se puede observar la distribución de estrellas de la constelación de Pegaso realizada por Johann Bayer en 1603, un ejemplo que recoge la práctica milenaria de referenciarnos dentro del espacio y del universo. 
-<center>![Johann Bayer, Uranometría, 1603](media/UD07_Bayer.jpg "Figura 1. Johann Bayer, Uranometría, 1603. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
+<center>![Johann Bayer, Uranometría, 1603](media/UD07_Bayer.jpg "Figura 1. Johann Bayer, Uranometría, 1603. Fuente: Beautiful Evidence, Edward R. Tufte, 2006")</center>
 	</div>
 </div>
 
@@ -203,7 +203,7 @@ La observación astronómica trae consigo, de hecho, uno de los **mayores giros 
 	</div>
 	<div class="ejemplo_contenido">
 En 1694 Galileo Galilei publica su obra sobre la posición de las estrellas no visibles a simple vista gracias al uso del telescopio, al comienzo del desarrollo y uso de tales artilugios (Figura 2). 
-<center>![Galileo Galilei, Pleiadum Constellatio, 1641.](media/UD07_Galileo.jpg "Figura 2. Galileo Galilei, Pleiadum Constellatio, 1641. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
+<center>![Galileo Galilei, Pleiadum Constellatio, 1641.](media/UD07_Galileo.jpg "Figura 2. Galileo Galilei, Pleiadum Constellatio, 1641. Fuente: Beautiful Evidence, Edward R. Tufte, 2006")</center>
 	</div>
 </div>
 
@@ -227,7 +227,7 @@ Con el avance científico, matemático y estadístico en los siglos posteriores 
 	</div>
 	<div class="ejemplo_contenido">
 Florence Nightingale, enfermera inglesa destinada en la guerra de Crimea, desarrolló todo un conjunto de nuevas visualizaciones gracias a todo su análisis estadístico sobre la mortandad en las unidades hospitalarias en las que estuvo destinada. A pesar de la familiaridad actual con este tipo de diagramas, en su momento fue una aproximación rupturista a la representación de magnitudes. 
-<center>![Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856](media/UD07_Florence.png "Figura 3. Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
+<center>![Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856](media/UD07_Florence.png "Figura 3. Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856. Fuente: Beautiful Evidence, Edward R. Tufte, 2006")</center>
 	</div>
 </div>
 
@@ -237,7 +237,7 @@ Florence Nightingale, enfermera inglesa destinada en la guerra de Crimea, desarr
 	</div>
 	<div class="ejemplo_contenido">
 Charles Minard describió la sangrienta campaña en el frente ruso de las tropas napoleónicas, con todo un grueso de tropas menguante que viaja de oeste a este y que posteriormente emprende su camino de retarguardia, ya en un número muy diezmado. Más allá de su propuesta visual, en trabajo de Charles Minard se caracteriza por mencionar sus fuentes y citarlas apropiadamente, estableciendo nuevos códigos de rigor y método. 
-<center>![Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard, 1869](media/UD07_Minard.png "Figura 4. Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard, 1869. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
+<center>![Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard, 1869](media/UD07_Minard.png "Figura 4. Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard, 1869. Fuente: Beautiful Evidence, Edward R. Tufte, 2006")</center>
 	</div>
 </div>
 
@@ -247,7 +247,7 @@ Charles Minard describió la sangrienta campaña en el frente ruso de las tropas
 	</div>
 	<div class="ejemplo_contenido">
 W.E.B. duBois refleja sus estadísticas de la realidad socioeconómica de la población afroamericana tras la ilegalización de la esclavitud en toda una serie de visualizaciones que presenta en la exposición universal de París de 1900. Destaca en su uso del color así como en el uso de nuevas formas geométricas hasta entonces inéditas. 
-<center>![Situación socioeconómica de la llamada Black America, W.E.B. duBois, 1900](media/UD07_DuBois.png "Figura 5. Situación socioeconómica de la llamada Black America, W.E.B. duBois, 1900. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
+<center>![Situación socioeconómica de la llamada Black America, W.E.B. duBois, 1900](media/UD07_DuBois.png "Figura 5. Situación socioeconómica de la llamada Black America, W.E.B. duBois, 1900. Fuente: Beautiful Evidence, Edward R. Tufte, 2006")</center>
 	</div>
 </div>
 
@@ -276,49 +276,49 @@ Sitúa en el tiempo las siguientes visualizaciones, identificando si el periodo 
 {{|>}}
 *************************************************************************************************************
 
-<center>![Ejercicio 1, primera cuestión](media/Ejercicio_0.png "Shewing at One View The Price of The Quarter of Wheat, & Wages of Labour by the Week, William Playfair")</center>
+<center>![Ejercicio 1, primera cuestión](media/Ejercicio_0.png "Shewing at One View The Price of The Quarter of Wheat, & Wages of Labour by the Week, William Playfair.")</center>
 
 - [(X)] < XIX
 - [( )] XIX - XX
 - [( )] XXI
 
-- <center>![Ejercicio 1, segunda cuestión](media/Ejercicio_2.jpg "The League of Nations,1925, Dr. Laura H. Martin y Dr. J. Paul Goode")</center>
+- <center>![Ejercicio 1, segunda cuestión](media/Ejercicio_2.jpg "The League of Nations,1925, Dr. Laura H. Martin y Dr. J. Paul Goode.")</center>
 
 - [( )] < XIX
 - [(X)] XIX - XX
 - [( )] XXI
 
-- <center>![Ejercicio 1, tercera cuestión](media/Ejercicio_4.jpg "СССР и капстраны")</center>
+- <center>![Ejercicio 1, tercera cuestión](media/Ejercicio_4.jpg "СССР и капстраны.")</center>
 
 - [( )] < XIX
 - [(X)] XIX - XX
 - [( )] XXI
 
-- <center>![Ejercicio 1, cuarta cuestión](media/Ejercicio_6.png "Crops that drive world trade in hazardous pesticides, Public Eye")</center>
+- <center>![Ejercicio 1, cuarta cuestión](media/Ejercicio_6.png "Crops that drive world trade in hazardous pesticides, Public Eye.")</center>
 
 - [( )] < XIX
 - [( )] XIX - XX
 - [(X)] XXI
 
-- <center>![Ejercicio 1, quinta cuestión](media/Ejercicio_1.png "London Underground, Henry Beck")</center>
+- <center>![Ejercicio 1, quinta cuestión](media/Ejercicio_1.png "London Underground, Henry Beck.")</center>
 
 - [( )] < XIX
 - [(X)] XIX - XX
 - [( )] XXI
 
-- <center>![Ejercicio 1, sexta cuestión](media/Ejercicio_3.jpg "Exports and Imports to and from Denmark and Norway, William Playfair")</center>
+- <center>![Ejercicio 1, sexta cuestión](media/Ejercicio_3.jpg "Exports and Imports to and from Denmark and Norway, William Playfair.")</center>
 
 - [(X)] < XIX
 - [( )] XIX - XX
 - [( )] XXI
 
-- <center>![Ejercicio 1, séptima cuestión](media/Ejercicio_5.jpg "Top 2000 loved 70's & 80's, Nadieh Bremer")</center>
+- <center>![Ejercicio 1, séptima cuestión](media/Ejercicio_5.jpg "Top 2000 loved 70's & 80's, Nadieh Bremer.")</center>
 
 - [( )] < XIX
 - [( )] XIX - XX
 - [(X)] XXI
 
-- <center>![Ejercicio 1, octava cuestión](media/Ejercicio_7.png "Four Years of Vacations in 20,000 Colors, Shirley Wu")</center>
+- <center>![Ejercicio 1, octava cuestión](media/Ejercicio_7.png "Four Years of Vacations in 20,000 Colors, Shirley Wu.")</center>
 
 - [( )] < XIX
 - [( )] XIX - XX
@@ -522,7 +522,7 @@ Tiene su origen en el scatter plot, **círculos posicionados en un plano cartesi
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-			<center>![Diagrama de burbujas.](media/UD07_Bubbles.png "Figura 8. Diagrama de burbujas. Fuente: [https://yotka.org/missing-migrants/] ")</center>
+			<center>![Diagrama de burbujas.](media/UD07_Bubbles.png "Figura 8. Diagrama de burbujas. Fuente: [Missing Migrants] (https://yotka.org/missing-migrants/) ")</center>
 	</div>
 </div>
 
