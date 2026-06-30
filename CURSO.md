@@ -686,7 +686,7 @@ La **transmisión de flujos** de unos nodos a otros adopta su mejor expresión e
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">R</p>
       </div>
-				<div style="margin-bottom:1.5rem;">
+		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Excel</p>
       </div>
 		<div style="margin-bottom:1.5rem;">
@@ -913,53 +913,53 @@ Identifica el tipo de visualización correspondiente con cada proyecto
 {{|>}}
 *************************************************************************************************************
 
-<center>![Ejercicio 2, primera cuestión](media/Ejercicio_8.png "Identifica el tipo de visualización")</center>
+<center>![Ejercicio 2, primera cuestión](media/Ejercicio_8.png "Adyen's Shareholder Report, Nadieh Bremer")</center>
 
 - [( )] Nodos
 - [( )] Coropletas
 - [(X)] Sankey
 
-- <center>![Ejercicio 2, segunda cuestión](media/Ejercicio_9.png "Identifica el tipo de visualización")</center>
+- <center>![Ejercicio 2, segunda cuestión](media/Ejercicio_9.png "Digital fingerprint of the song "Adore You" by Harry Styles, Nadieh Bremer")</center>
 
 - [( )] Puntos
 - [( )] Ejes Cartesianos
 - [(X)] Ejes Radiales
 
-- <center>![Ejercicio 2, tercera cuestión](media/Ejercicio_10.jpg "Identifica el tipo de visualización")</center>
+- <center>![Ejercicio 2, tercera cuestión](media/Ejercicio_10.jpg "World Water Atlas, Jan Willem Tulp")</center>
 
 - [( )] Voronoi
 - [(X)] Teselas
 - [( )] Contornos
 
-- <center>![Ejercicio 2, cuarta cuestión](media/Ejercicio_11.jpg "Identifica el tipo de visualización")</center>
+- <center>![Ejercicio 2, cuarta cuestión](media/Ejercicio_11.jpg "Architecture Archive, Jan Willem Tulp")</center>
 
 - [( )] Ejes Radiales
 - [( )] Nodos
 - [(X)] Nodos Radiales
 
-- <center>![Ejercicio 2, quinta cuestión](media/Ejercicio_12.jpg "Identifica el tipo de visualización")</center>
+- <center>![Ejercicio 2, quinta cuestión](media/Ejercicio_12.jpg "Meldingen Openbare Ruimte, Jan Willem Tulp")</center>
 
 - [( )] Burbujas
 - [(X)] Puntos
 - [( )] Teselas
 
-- <center>![Ejercicio 2, sexta cuestión](media/Ejercicio_13.png "Identifica el tipo de visualización")</center>
+- <center>![Ejercicio 2, sexta cuestión](media/Ejercicio_13.png "Spain lives in flats: why we have built our cities vertically, Raúl Sánchez y Analía Plaza")</center>
 
 - [( )] Contornos
 - [(X)] 3D
 - [( )] Teselas
 
-- <center>![Ejercicio 2, séptima cuestión](media/Ejercicio_14.jpg "Identifica el tipo de visualización")</center>
+- <center>![Ejercicio 2, séptima cuestión](media/Ejercicio_14.jpg "Wind Map, Fernanda Viégas y Martin Wattenberg")</center>
 
 - [( )] Contornos
 - [( )] Paths
 - [(X)] Trayectorias
 
-- <center>![Ejercicio 2, octava cuestión](media/Ejercicio_16.png "Identifica el tipo de visualización")</center>
+- <center>![Ejercicio 2, octava cuestión](media/Ejercicio_16.png "Bussed out, how America moves its homeless, The Guardian")</center>
 
 - [( )] Puntos
-- [( )] Burbujas
-- [(X)] Teselas
+- [(X)] Burbujas
+- [( )] Teselas
 
 *************************************************************************************************************
 
