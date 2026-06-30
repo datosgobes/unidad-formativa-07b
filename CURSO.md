@@ -463,17 +463,22 @@ Este conjunto de casos representa la mayor parte de datos con número pequeño o
   </div>
   <div style="display:flex; flex-wrap:wrap;">
     <div class="destacado_contenido" style="flex:1; min-width:300px;">
-      <div>
+     <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Python</p>
+			Python es uno de los lenguajes más utilizados en análisis de datos. Permite la lectura de un amplio rango de ficheros de datos, así como 
+		 su procesamiento, análisis y conversión de formato para todo tipo de aplicaciones. 
       </div>
-      <div style="margin-bottom:1.5rem;">
+		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">R</p>
+			Lenguaje de programación libre muy utilizado en estadística y análisis de datos. Dispone de un amplio ecosistema de paquetes que permiten trabajar con datos públicos de forma reproducible y transparente
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Excel</p>
+			Tradicional herramienta de estructuración de datos, cálculos sencillos y visualización a través de elementos clásicos. 
       </div>
 		<div style="margin-bottom:1.5rem;">
-        <p class="subtitulo subtitulo_borde">Google</p>
+        <p class="subtitulo subtitulo_borde">Google Sheets</p>
+			Es una aplicación de hoja de cálculo basada en la web que permite organizar, analizar y compartir datos de manera eficiente, facilitando la colaboración en tiempo real entre múltiples usuarios
       </div>
     </div>
   </div>
@@ -580,21 +585,27 @@ Gráfico que representa múltiples variables mediante **ejes que se extienden de
     <div class="destacado_contenido" style="flex:1; min-width:300px;">
       <div>
         <p class="subtitulo subtitulo_borde">D3.js</p>
+		  Es uno de los referentes en visualización web. Se basa en estándares abiertos y permite un control total sobre la representación visual de los datos. Su flexibilidad es muy alta, aunque también lo es su complejidad
       </div>
       <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Tableau</p>
+		  Plataforma de análisis de datos que permite la conexión a bases de datos y creación de cuadros de mando con un alto grado de customización.
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">PowerBI</p>
+			Plataforma de Microsoft de análisis de datos que crea cuadros de mando sobre unidades semánticas conectando bases de datos con un frontal de visualización
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Datawrapper</p>
+			Muy utilizada en comunicación pública y periodismo de datos. Permite crear gráficos claros, mapas y tablas interactivas sin necesidad de conocimientos técnicos. Es especialmente adecuada para explicar datos de forma comprensible a un público amplio
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">RAWGraphs</p>
+			Herramienta de software libre orientada a la exploración visual. Permite experimentar con tipos de gráficos menos habituales y descubrir nuevas formas de representar datos. Resulta especialmente útil en fases exploratorias
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Canva</p>
+			Aunque su enfoque es más divulgativo que analítico, puede ser útil para crear piezas visuales sencillas que integren gráficos básicos con elementos de diseño. Es adecuada para la comunicación visual de resultados, no tanto para el análisis de datos
       </div>
     </div>
   </div>
@@ -670,33 +681,43 @@ La **transmisión de flujos** de unos nodos a otros adopta su mejor expresión e
     <div class="destacado_contenido" style="flex:1; min-width:300px;">
       <div>
         <p class="subtitulo subtitulo_borde">D3.js</p>
+		  Es uno de los referentes en visualización web. Se basa en estándares abiertos y permite un control total sobre la representación visual de los datos. Su flexibilidad es muy alta, aunque también lo es su complejidad
       </div>
       <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Tableau</p>
+		  Plataforma de análisis de datos que permite la conexión a bases de datos y creación de cuadros de mando con un alto grado de customización.
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">PowerBI</p>
+			Plataforma de Microsoft de análisis de datos que crea cuadros de mando sobre unidades semánticas conectando bases de datos con un frontal de visualización
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Datawrapper</p>
+			Muy utilizada en comunicación pública y periodismo de datos. Permite crear gráficos claros, mapas y tablas interactivas sin necesidad de conocimientos técnicos. Es especialmente adecuada para explicar datos de forma comprensible a un público amplio
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Python</p>
+			Python es uno de los lenguajes más utilizados en análisis de datos. Matplotlib permite crear gráficos estáticos personalizables, mientras que Plotly facilita la creación de visualizaciones interactivas. Juntas ofrecen un buen equilibrio entre potencia y flexibilidad
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">R</p>
+			lenguaje de programación libre muy utilizado en estadística y análisis de datos. Dispone de un amplio ecosistema de paquetes que permiten trabajar con datos públicos de forma reproducible y transparente
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Excel</p>
+			Tradicional herramienta de estructuración de datos, cálculos sencillos y visualización a través de elementos clásicos. 
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">ApacheSuperset</p>
+			 Es una plataforma de inteligencia empresarial de código abierto diseñada para la exploración y visualización de datos, que permite a los usuarios crear dashboards interactivos y realizar consultas ad hoc sin necesidad de programación
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Grafana</p>
+			Es una aplicación web de análisis y visualización de datos de código abierto que permite a los usuarios crear paneles de control personalizables para mostrar métricas, registros y trazas a partir de diversas fuentes de datos. Se utiliza comúnmente para monitorear aplicaciones y recursos de hardware
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">RAWGraphs</p>
+			herramienta de software libre orientada a la exploración visual. Permite experimentar con tipos de gráficos menos habituales y descubrir nuevas formas de representar datos. Resulta especialmente útil en fases exploratorias
       </div>
     </div>
   </div>
@@ -747,15 +768,19 @@ Aprovechando el desarrollo de nuevas propuestas gráficas y la capacidad del len
     <div class="destacado_contenido" style="flex:1; min-width:300px;">
       <div>
         <p class="subtitulo subtitulo_borde">D3.js</p>
+		  Es uno de los referentes en visualización web. Se basa en estándares abiertos y permite un control total sobre la representación visual de los datos. Su flexibilidad es muy alta, aunque también lo es su complejidad
       </div>
       <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Tableau</p>
+		  Plataforma de análisis de datos que permite la conexión a bases de datos y creación de cuadros de mando con un alto grado de customización.
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">PowerBI</p>
+			Plataforma de Microsoft de análisis de datos que crea cuadros de mando sobre unidades semánticas conectando bases de datos con un frontal de visualización
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Cosmograph</p>
+			Herramienta para la visualización de un gran número de interconexiones y elementos asociados de forma jerárquica. 
       </div>
     </div>
   </div>
@@ -873,31 +898,39 @@ Tradicionalmente realizado con hexágonos, la **clusterización en polígonos re
     <div class="destacado_contenido" style="flex:1; min-width:300px;">
       <div>
         <p class="subtitulo subtitulo_borde">D3.js</p>
+		  Es uno de los referentes en visualización web. Se basa en estándares abiertos y permite un control total sobre la representación visual de los datos. Su flexibilidad es muy alta, aunque también lo es su complejidad
       </div>
       <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">GoogleEarth</p>
+		  Es gratuita pero no es de código abierto, y los datos cargados pueden ser procesados por Google. Su versión web permite importar archivos KML/KMZ y es útil para contextualizar información sobre imágenes satelitales
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">KeplerGL</p>
 			Es una herramienta web gratuita y de código abierto que permite arrastrar y soltar archivos en formatos como CSV, GeoJSON o Shapefile y obtener visualizaciones de forma inmediata
       </div>
 		<div style="margin-bottom:1.5rem;">
-        <p class="subtitulo subtitulo_borde">Python</p>
+        <p class="subtitulo subtitulo_borde">Python - Cartopy</p>
+			Es una librería que se integra con Matplotlib y está orientada a la representación de datos científicos y climáticos. Su gran fortaleza es el manejo de proyecciones cartográficas, con soporte para decenas de sistemas de referencia
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">OpenStreetMap</p>
+			No es exactamente una herramienta de visualización, sino la base de datos geográfica colaborativa más grande del mundo, con licencia abierta (ODbL). Su ecosistema incluye herramientas como Overpass Turbo para consultar y extraer datos, y sus teselas cartográficas son la base sobre la que se construyen muchos mapas web
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">QGIS</p>
+			Es el SIG de escritorio de referencia en el mundo del código abierto. Gratuito, multiplataforma y con una comunidad muy activa, cubre prácticamente cualquier necesidad de análisis y producción cartográfica
       </div>
 				<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">ArcGIS</p>
+					es la plataforma SIG comercial más utilizada en entornos profesionales e institucionales. Ofrece capacidades avanzadas de análisis, edición y publicación de mapas, y su ecosistema en la nube facilita la colaboración y la gestión de portales de datos geográficos
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">MapLibre</p>
+			Es una librería JavaScript de código abierto que permite construir mapas web interactivos de alto rendimiento mediante teselas vectoriales
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">R</p>
+			Lenguaje de programación libre muy utilizado en estadística y análisis de datos. Dispone de un amplio ecosistema de paquetes que permiten trabajar con datos públicos de forma reproducible y transparente
       </div>
     </div>
   </div>
