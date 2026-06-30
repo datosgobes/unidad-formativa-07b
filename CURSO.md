@@ -535,7 +535,7 @@ Muy popular para datos económicos. El treemap **distribuye un espacio limitado 
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-	<center>![Treemap](media/UD07_Treemap.png "Figura 9. Treemap. Fuente: [https://www.moodys.com/web/en/us/insights/data-stories/10-key-insurers-risks-in-charts.html] ")</center>
+	<center>![Treemap](media/UD07_Treemap.png "Figura 9. Treemap. Fuente: [Key Insurers Risks](https://www.moodys.com/web/en/us/insights/data-stories/10-key-insurers-risks-in-charts.html)")</center>
 	</div>
 </div>
 
