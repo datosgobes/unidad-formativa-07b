@@ -60,7 +60,7 @@ También puedes ver la [versión en inglés](https://www.youtube.com/watch?v=S1R
 <div class="presentacion_contenedor">
   
   <div class="presentacion_fila">
-    <div class="caja-icono">📌</div><div class="caja-texto"><span class="etiqueta">Título:</span> Tipos y herramientas para la  <b>visualización de datos </b>. </div>
+    <div class="caja-icono">📌</div><div class="caja-texto"><span class="etiqueta">Título:</span> <b>Visualización de datos </b>. </div>
   </div>
 
   <div class="presentacion_fila">
@@ -174,6 +174,8 @@ Finalmente se especifican **todas las áreas profesionales** que cubren el proce
 - **Periodismo**
 - **Desarrollo web**
 
+De este modo contextualizamos tanto histórica como socialmente el momento en el que nos encontramos a la hora de desarrollar proyectos de visualización de datos. 
+
 ### La astronomía y el origen de la visualización 
 
 {{|>}}
@@ -217,16 +219,35 @@ La información que se escondía en la bóveda celeste -y que se revela a travé
 
 Con el avance científico, matemático y estadístico en los siglos posteriores se llega a creación de las **primeras tablas en formato impreso**, ricas en contenido, pero **difíciles de interpretar** a simple vista.Es en ese momento cuando surge la visualización moderna, utilizando los ejes cartesianos X e Y para la representación de información. No será hasta la **segunda mitad del siglo XIX** cuando la visualización contemporánea, tal y como la conocemos, comienza a consolidarse. 
 
-Ejemplos: 
-
-Trabajos como los de Florence Nightingale, con todo su análisis estadístico de **mortandad en la guerra de Crimea**.
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+Trabajos como los de Florence Nightingale, con todo su análisis estadístico de mortandad en la guerra de Crimea.
 <center>![Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856](media/UD07_Florence.png "Figura 3. Mortalidad en la Guerra de Crimea, Florence Nightingale, 1856. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
+	</div>
+</div>
 
-Charles Minard describiendo la sangrienta **campaña en el frente ruso** de las tropas napoleónicas.
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+Charles Minard describiendo la sangrienta campaña en el frente ruso de las tropas napoleónicas.
 <center>![Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard, 1869](media/UD07_Minard.png "Figura 4. Mapa figurativo de la campaña napoleónica en Rusia, Charles Minard, 1869. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
+	</div>
+</div>
 
-W.E.B. duBois y sus estadísticas de la **realidad socioeconómica de la población afroamericana** tras la ilegalización de la esclavitud.
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
+		💡 Ejemplo
+	</div>
+	<div class="ejemplo_contenido">
+W.E.B. duBois y sus estadísticas de la realidad socioeconómica de la población afroamericana tras la ilegalización de la esclavitud.
 <center>![Situación socioeconómica de la llamada Black America, W.E.B. duBois, 1900](media/UD07_DuBois.png "Figura 5. Situación socioeconómica de la llamada Black America, W.E.B. duBois, 1900. Fuente: [Beautiful Evidence, Edward R. Tufte, 2006]")</center>
+	</div>
+</div>
 
 Todos ellos pusieron la visualización a otro nivel, tanto en lo relativo al **rigor numérico y citación de fuentes** como en la adopción de una **aproximación gráfica y estética absolutamente rupturista** con el clasicismo de los ejes cartesianos de los siglos anteriores.
 
