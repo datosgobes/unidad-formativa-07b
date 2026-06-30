@@ -408,14 +408,7 @@ El conjunto de formatos presentado aquí representa la mayor parte de datos con 
 	</div>
 </div>
 
-*************************************************************************************************************
-
-<!-- id="tipos_1" -->
-
 #### CSV, TSV, TXT
-
-{{|>}}
-*************************************************************************************************************
 
 Estas siglas esconden un acrónimo en inglés equivalente respectivamente a **Comma Separated Value** (CSV), **Tab Separated Value** (TSV) o **Text** (TXT), que puede adoptar la forma tanto del CSV como del TSV. En estos casos los datos se disponen en hileras cuyas columnas están separadas bien por comas (CSV), bien por tabulaciones (TSV) dentro de cada fila. Al tener siempre el mismo carácter diferenciador, bien sea la coma o la tabulación, es muy fácil para lenguajes como Python o R interpretar el contenido del fichero de entrada y estructurarlo acorde con esos separadores.
 
@@ -428,14 +421,7 @@ Estas siglas esconden un acrónimo en inglés equivalente respectivamente a **Co
 	</div>
 </div>
 
-*************************************************************************************************************
-
-<!-- id="tipos_2" -->
-
 #### JSON
-
-{{|>}}
-*************************************************************************************************************
 
 Estas siglas significan **JavaScript Object Notation**, y hacen referencia a una estructura de datos donde los valores y magnitudes vienen **en forma de pares**, donde a una categoría se asocia un valor. Estas estructuras pueden agruparse en cadenas o arrays de elementos. Su desarrollo estuvo motivado por el intercambio de información necesario para nutrir las páginas web y los navegadores, y ha acabado por convertirse en un estándar válido también fuera de estos ámbitos. 
 
@@ -448,14 +434,7 @@ Estas siglas significan **JavaScript Object Notation**, y hacen referencia a una
 	</div>
 </div>
 
-*************************************************************************************************************
-
-<!-- id="tipos_3" -->
-
 #### GoogleSheets
-
-{{|>}}
-*************************************************************************************************************
 
 La existencia de hojas de cálculo online permite igualmente la **lectura de tales ficheros directamente sin ningún tipo de herramienta intermedia** como Python o R. Referenciada por una identificación única a la cual se le llama dentro de su URL, estas hojas de cálculo **pueden ser leídas por JavaScript** para crear visualizaciones a partir de la información contenida en sus filas y columnas. 
 
