@@ -522,7 +522,7 @@ Tiene su origen en el scatter plot, **círculos posicionados en un plano cartesi
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-			<center>![Diagrama de burbujas.](media/UD07_Bubbles.png "Figura 8. Diagrama de burbujas. Fuente: https://yotka.org/missing-migrants/")</center>
+			<center>![Diagrama de burbujas.](media/UD07_Bubbles.png "Figura 8. Diagrama de burbujas. Fuente: [Jan Kühn](https://yotka.org/missing-migrants/)")</center>
 	</div>
 </div>
 
@@ -535,7 +535,7 @@ Muy popular para datos económicos. El treemap **distribuye un espacio limitado 
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-	<center>![Treemap](media/UD07_Treemap.png "Figura 9. Treemap. Fuente: [Key Insurers Risks](https://www.moodys.com/web/en/us/insights/data-stories/10-key-insurers-risks-in-charts.html)")</center>
+	<center>![Treemap](media/UD07_Treemap.png "Figura 9. Treemap. Fuente: [Moodys](https://www.moodys.com/web/en/us/insights/data-stories/10-key-insurers-risks-in-charts.html)")</center>
 	</div>
 </div>
 
@@ -548,7 +548,7 @@ Semejante al treemap, pero utilizando a la inversa el cálculo de Voronoi de los
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-	<center>![Diagrama de Voronoi](media/UD07_Voronoi.png "Figura 10. Diagrama de Voronoi. Fuente: [https://www.moodys.com/web/en/us/insights/data-stories/10-key-insurers-risks-in-charts.html] ")</center>
+	<center>![Diagrama de Voronoi](media/UD07_Voronoi.png "Figura 10. Diagrama de Voronoi. Fuente: [Moodys](https://www.moodys.com/web/en/us/insights/data-stories/10-key-insurers-risks-in-charts.html)")</center>
 	</div>
 </div>
 
@@ -561,7 +561,7 @@ Gráfico utilizado para representar **trayectorias uniendo puntos mediante líne
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-			<center>![Paths](media/UD07_Path.png "Figura 11. Paths. Fuente: [https://www.behance.net/gallery/121178815/Land-Defenders] ")</center>
+			<center>![Paths](media/UD07_Path.png "Figura 11. Paths. Fuente: [Federica Fragapane](https://www.behance.net/gallery/121178815/Land-Defenders)")</center>
 	</div>
 </div>
 
@@ -574,7 +574,7 @@ Gráfico que representa múltiples variables mediante **ejes que se extienden de
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-					<center>![Araña](media/UD07_Spider.png "Figura 12. Araña. Fuente: [https://www.behance.net/gallery/244863983/Graphics-for-the-Publications-Office-of-the-EU-25-26 ] ")</center>
+					<center>![Araña](media/UD07_Spider.png "Figura 12. Araña. Fuente: [Federica Fragapane](https://www.behance.net/gallery/244863983/Graphics-for-the-Publications-Office-of-the-EU-25-26)")</center>
 	</div>
 </div>
 
@@ -631,7 +631,7 @@ Los ejes cartesianos, x e y, permiten asociar la **dimensión temporal al eje X,
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-	<center>![Ejes cartesianos](media/UD07_Axis.png "Figura 13. Ejes Cartesianos. Fuente: [https://ig.ft.com/coronavirus-chart/]")</center>
+	<center>![Ejes cartesianos](media/UD07_Axis.png "Figura 13. Ejes Cartesianos. Fuente: [Financial Times](https://ig.ft.com/coronavirus-chart/)")</center>
 	</div>
 </div>
 
@@ -644,7 +644,7 @@ El **scroll vertical de los dispositivos digitales** ha permitido la creación d
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-			<center>![Ejes verticales](media/UD07_Vertical.jpg "Figura 14. Ejes verticales. Fuente: [https://www.visualcinnamon.com/portfolio/sciam-satellite-surge/]")</center>
+			<center>![Ejes verticales](media/UD07_Vertical.jpg "Figura 14. Ejes verticales. Fuente: [Nadieh Bremer](https://www.visualcinnamon.com/portfolio/sciam-satellite-surge/)")</center>
 	</div>
 </div>
 
@@ -657,7 +657,7 @@ Siguiendo la tradición más oriental y redundando en la recursividad del tiempo
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-					<center>![Ejes radiales](media/UD07_Radial.jpg "Figura 15. Ejes radialess. Fuente: [https://www.behance.net/gallery/164954871/Wired-UK-Infographic-SpaceX-Rockets ]")</center>
+					<center>![Ejes radiales](media/UD07_Radial.jpg "Figura 15. Ejes radialess. Fuente: [Tiziana Alocci](https://www.behance.net/gallery/164954871/Wired-UK-Infographic-SpaceX-Rockets)")</center>
 	</div>
 </div>
 
@@ -670,7 +670,7 @@ La **transmisión de flujos** de unos nodos a otros adopta su mejor expresión e
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-	<center>![Diagrama de Sankey](media/UD07_Sankey.png "Figura 16. Diagrama de Sankey. Fuente: [https://www.behance.net/gallery/17868143/Power-grid ]")</center>
+	<center>![Diagrama de Sankey](media/UD07_Sankey.png "Figura 16. Diagrama de Sankey. Fuente: [Adolfo Arranz](https://www.behance.net/gallery/17868143/Power-grid)")</center>
 	</div>
 </div>
 
@@ -744,7 +744,7 @@ La más básica de esas representaciones es una **estructura en árbol** en la c
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-			<center>![Nodos](media/UD07_Nodes.png "Figura 17. Nodos. Fuente: [zoonotic-web/](https://vis.csh.ac.at/zoonotic-web/ )")</center>
+			<center>![Nodos](media/UD07_Nodes.png "Figura 17. Nodos. Fuente: [zoonotic-web](https://vis.csh.ac.at/zoonotic-web/)")</center>
 	</div>
 </div>
 
@@ -757,7 +757,7 @@ Aprovechando el desarrollo de nuevas propuestas gráficas y la capacidad del len
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-				<center>![Nodos radiales](media/UD07_Arc.jpg "Figura 18. Nodos radiales. Fuente: [how-dogs-evolved] (https://www.fastcompany.com/3025003/how-dogs-evolved )")</center>
+				<center>![Nodos radiales](media/UD07_Arc.jpg "Figura 18. Nodos radiales. Fuente: [Alice Bouchardon](https://www.fastcompany.com/3025003/how-dogs-evolved)")</center>
 	</div>
 </div>
 
@@ -809,7 +809,7 @@ Dentro de la tradición, representar localizaciones o eventos **a través de la 
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-	<center>![Puntos](media/UD07_Dots.png "Figura 19. Puntos. Fuente: [Moritz Stefaner](https://climate-conflict.org/www/data-pages/hazards )")</center>
+	<center>![Puntos](media/UD07_Dots.png "Figura 19. Puntos. Fuente: [Moritz Stefaner](https://climate-conflict.org/www/data-pages/hazards)")</center>
  	</div>
 </div>
 
@@ -822,7 +822,7 @@ Las rutas, especialmente las correspondientes al transporte aéreo o marítimo, 
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-			<center>![Trayectorias](media/UD07_Trajectories.png "Figura 20. Trayectorias. Fuente: [Audubon]  (https://explorer.audubon.org/ )")</center>
+			<center>![Trayectorias](media/UD07_Trajectories.png "Figura 20. Trayectorias. Fuente: [Audubon](https://explorer.audubon.org/)")</center>
 	</div>
 </div>
 
@@ -835,7 +835,7 @@ La división del territorio en márgenes y límites de diversa índole, tales co
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-			<center>![Coropletas](media/UD07_Choro.png "Figura 21. Coropletas. Fuente: [Reuters] (https://www.reuters.com/graphics/GERMANY-ELECTION/RESULTS/movaynkgova/ )")</center>
+			<center>![Coropletas](media/UD07_Choro.png "Figura 21. Coropletas. Fuente: [Reuters](https://www.reuters.com/graphics/GERMANY-ELECTION/RESULTS/movaynkgova/)")</center>
 	</div>
 </div>
 
@@ -848,7 +848,7 @@ Determinados productos satelitales o modelos numéricos para el estudio del sist
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-					<center>![Teselas](media/UD07_Tiles.png "Figura 22. Teselas. Fuente: [Mortiz Stefaner](https://project-ukko.net/map.html )")</center>
+					<center>![Teselas](media/UD07_Tiles.png "Figura 22. Teselas. Fuente: [Mortiz Stefaner](https://project-ukko.net/map.html)")</center>
 	</div>
 </div>
 
@@ -861,7 +861,7 @@ La **interpolación entre valores adyacentes** en una superficie permite crear c
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-		<center>![Contornos](media/UD07_Contour.png "Figura 23. Contornos. Fuente: [ABC30]  (https://abc30.com/post/central-california-map-fire-sierra-nevada-wildfire-danger/10843964/ )")</center>
+		<center>![Contornos](media/UD07_Contour.png "Figura 23. Contornos. Fuente: [ABC30](https://abc30.com/post/central-california-map-fire-sierra-nevada-wildfire-danger/10843964/)")</center>
 	</div>
 </div>
 
@@ -874,7 +874,7 @@ El incremento de **la capacidad computacional** ha permitido el desarrollo en la
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-				<center>![Tres dimensiones](media/UD07_3D.png "Figura 24. Tres dimensiones. Fuente: [The Pudding] (https://pudding.cool/2018/10/city_3d/ )")</center>
+				<center>![Tres dimensiones](media/UD07_3D.png "Figura 24. Tres dimensiones. Fuente: [The Pudding](https://pudding.cool/2018/10/city_3d/)")</center>
 	</div>
 </div>
 
@@ -887,7 +887,7 @@ Tradicionalmente realizado con hexágonos, la **clusterización en polígonos re
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-						<center>![Agrupaciones](media/UD07_Hexbin.png "Figura. Agrupaciones. Fuente: [Moritz Stefaner] (https://truth-and-beauty.net/projects/achingenzell )")</center>
+						<center>![Agrupaciones](media/UD07_Hexbin.png "Figura. Agrupaciones. Fuente: [Moritz Stefaner](https://truth-and-beauty.net/projects/achingenzell)")</center>
 	</div>
 </div>
 
