@@ -65,7 +65,7 @@ También puedes ver la [versión en inglés](https://www.youtube.com/watch?v=S1R
 
   <div class="presentacion_fila">
     <div class="caja-icono">📋</div><div class="caja-texto"><span class="etiqueta">Descripción:</span> 
-		La unidad describe <b>todos los elementos</b> que hay que abordar a la hora de realizar una visualización de datos, desde el procesamiento de los datos de entrada para disponer del formato adecuado hasta a la capa de presentación para poder acceder a la visualización en un entorno web;finaliza con una revisión de los <b>tipos más frecuentes de visualización contemporánea</b> que podemos utilizar. En cada paso <b>se recomiendan una serie de herramientas</b>, gratuitas y de acceso libre, a las que podemos recurrir para realizar las visualizaciones.</div>
+		La unidad describe <b>todos los elementos</b> que hay que abordar a la hora de realizar una <b>visualización de datos</b>, desde el procesamiento de los datos de entrada para disponer del formato adecuado hasta la capa de presentación para poder acceder a la visualización en un entorno web; incluye también una revisión de los <b>tipos más frecuentes de visualización contemporánea</b> que podemos utilizar. En cada paso <b>se recomiendan una serie de herramientas</b>, gratuitas y de acceso libre, a las que podemos recurrir para realizar las visualizaciones.</div>
   </div>
 
   <div class="presentacion_fila">
@@ -98,7 +98,7 @@ También puedes ver la [versión en inglés](https://www.youtube.com/watch?v=S1R
 1. Introducción
    - Breve historia de la visualización de datos
    - Impacto social y empresarial de la visualización
-   - Perfil del desarrollador de visualizaciones de datos
+   - Tareas del desarrollador de visualizaciones de datos
 2. Tipos y herramientas
 2.1 Formatos de datos para visualización
    - CSV, TSV, TXT
@@ -131,7 +131,7 @@ El desembarco de nuevas tecnologías a lo largo de las últimas décadas no ha d
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-El proyecto <a href="https://showyourstripes.info/showcase" target="_blank" rel="noopener">ShowYourStripes</a> aborda el incremento de la temperatura a través de líneas de color. Este proyecto cuenta con representación en todo tipo de soportes más allá de los digitales. 
+El proyecto <a href="https://showyourstripes.info/showcase" target="_blank" rel="noopener">ShowYourStripes</a> aborda el incremento de la temperatura en la superficie de la Tierra a través del color, pasando de fríos si la temperatura es inferior a una media temporal histórica, a cálidos, si la temperatura es mayor que esa media histórica. En todos los puntos se puede observar cómo la tendencia es pasar de tonos fríos a cálidos, dejando patente el calentamiento global que está experimentando el planeta. Este proyecto cuenta con representación en todo tipo de soportes más allá de los digitales, en concreto sobre patrones textiles o cerámicos. 
 	</div>
 </div>
 
@@ -159,7 +159,9 @@ El proyecto <a href="https://showyourstripes.info/showcase" target="_blank" rel=
 <!-- id="historia_0" -->
 ## Introducción
 
-En esta sección se realiza un **breve recorrido por la historia** de la visualización de datos, desde las primeras formas de representar mapas y cartografías hasta los recientes avances tecnológicos que han permitido su popularización. Así, se divide la historia en dos períodos:
+En esta sección contextualizaremos la existencia de la visualización de datos en el desempeño del análisis e interpretación de los datos, desde el origen histórico hasta el uso contemporáneao. Asimismo, se aborda su creciente transversalidad en cuanto a aplicaciones y las habilidades necesarias para poder ejercer esta profesion. 
+
+El **breve recorrido por la historia** de la visualización de datos, desde las primeras formas de representar mapas y cartografías hasta los recientes avances tecnológicos, se divide en dos períodos:
 
 - **La astronomía y el origen de la visualización**
 - **La revolución del siglo XIX en la visualización contemporánea**
@@ -174,7 +176,7 @@ Finalmente se especifican **todas las áreas profesionales** que cubren el proce
 - **Periodismo**
 - **Desarrollo web**
 
-De este modo contextualizamos tanto histórica como socialmente el momento en el que nos encontramos a la hora de desarrollar proyectos de visualización de datos. 
+De este modo adquirimos ese contexto, tanto histórico como social, a la hora de desarrollar proyectos de visualización de datos. 
 
 ### La astronomía y el origen de la visualización 
 
@@ -217,7 +219,7 @@ La información que se escondía en la bóveda celeste -y que se revela a travé
 {{|>}}
 *************************************************************************************************************
 
-Con el avance científico, matemático y estadístico en los siglos posteriores se llega a creación de las **primeras tablas en formato impreso**, ricas en contenido, pero **difíciles de interpretar** a simple vista.Es en ese momento cuando surge la visualización moderna, utilizando los ejes cartesianos X e Y para la representación de información. No será hasta la **segunda mitad del siglo XIX** cuando la visualización contemporánea, tal y como la conocemos, comienza a consolidarse. 
+Con el avance científico, matemático y estadístico en los siglos posteriores se llega a creación de las **primeras tablas en formato impreso**, ricas en contenido, pero **difíciles de interpretar** a simple vista. Es en ese momento cuando surge la visualización moderna, utilizando los ejes cartesianos X e Y para la representación de información. No será hasta la **segunda mitad del siglo XIX** cuando la visualización contemporánea, tal y como la conocemos, comienza a consolidarse. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
@@ -259,7 +261,7 @@ De esta forma se llega al siglo XX, donde las **grandes tiradas de prensa popula
 	</div>
 	<div class="aviso_contenido">
 		
-La revolución digital ha traído consigo,no solo el **desarrollo de potentes herramientas de cálculo y diseño**, sino también dispositivos electrónicos que basan su interacción con el ser humano, en gran medida, en lo visual a través de pantallas táctiles. Este fenómeno ha **predispuesto a los usuarios a consumir información visual** por encima de cualquier otro tipo de formatos, favoreciendo el uso de visualizaciones frente a la lectura atenta de texto. La visualización de datos se ve así impulsada por estos dispositivos y encuentra su lugar en la actualidad gracias a contar con **un público habituado a consumir información visual**. 
+La revolución digital ha traído consigo, no solo el **desarrollo de potentes herramientas de cálculo y diseño**, sino también dispositivos electrónicos que basan su interacción con el ser humano, en gran medida, en lo visual a través de pantallas táctiles. Este fenómeno ha **predispuesto a los usuarios a consumir información visual** por encima de cualquier otro tipo de formatos, favoreciendo el uso de visualizaciones frente a la lectura atenta de texto. La visualización de datos se ve así impulsada por estos dispositivos y encuentra su lugar en la actualidad gracias a contar con **un público habituado a consumir información visual**. 
 	</div>
 </div>
 
@@ -276,8 +278,8 @@ Sitúa en el tiempo las siguientes visualizaciones, identificando si el periodo 
 
 <center>![Ejercicio 1, primera cuestión](media/Ejercicio_0.png "Shewing at One View The Price of The Quarter of Wheat, & Wages of Labour by the Week, William Playfair")</center>
 
-- [( )] < XIX
-- [(X)] XIX - XX
+- [(X)] < XIX
+- [( )] XIX - XX
 - [( )] XXI
 
 - <center>![Ejercicio 1, segunda cuestión](media/Ejercicio_2.jpg "The League of Nations,1925, Dr. Laura H. Martin y Dr. J. Paul Goode")</center>
@@ -306,8 +308,8 @@ Sitúa en el tiempo las siguientes visualizaciones, identificando si el periodo 
 
 - <center>![Ejercicio 1, sexta cuestión](media/Ejercicio_3.jpg "Exports and Imports to and from Denmark and Norway, William Playfair")</center>
 
-- [( )] < XIX
-- [(X)] XIX - XX
+- [(X)] < XIX
+- [( )] XIX - XX
 - [( )] XXI
 
 - <center>![Ejercicio 1, séptima cuestión](media/Ejercicio_5.jpg "Top 2000 loved 70's & 80's, Nadieh Bremer")</center>
@@ -332,7 +334,7 @@ Sitúa en el tiempo las siguientes visualizaciones, identificando si el periodo 
 
 Como hemos visto, el ámbito en el cual se han desarrollado proyectos de visualización ha pasado de ser un nicho ligado a contextos primitivos de localización astronómica a una **omnipresencia tanto en Internet como en la prensa escrita**. 
 
-Tradicionalmente, **el ámbito periodístico y social ha sido el motor** para el desarrollo de esta disciplina, interesada en transmitir de forma rápida e intuitiva información relevante que debe ser comprendida en poco tiempo por lectores no necesariamente  dispuestos a leer artículos de texto. 
+Tradicionalmente, **el ámbito periodístico y social ha sido el motor** para el desarrollo de esta disciplina, interesada en transmitir de forma rápida e intuitiva información relevante que debe ser comprendida en poco tiempo por lectores no necesariamente dispuestos a leer artículos de texto. 
 
 De todos esos avances se ha beneficiado el mundo empresarial, una vez que **la cantidad de datos a manejar ha crecido exponencialmente** y la representación de la realidad corporativa ya no se podía realizarse de forma estrictamente oral o convencional a través de informes únicamente de texto. El propio interés empresarial ha permitido **el desarrollo de herramientas muy potentes para visualización**, tanto a nivel cartográfico (Google Earth, KeplerGL) como en formas más básicas de representación. 
 
@@ -347,7 +349,7 @@ Kpler, empresa que monitoriza el movimiento de materias primas y derivados de co
 
 *************************************************************************************************************
 
-### Perfil del desarrollador de visualizaciones de datos 
+### Tareas del desarrollador de visualizaciones de datos 
 
 {{|>}}
 *************************************************************************************************************
@@ -356,15 +358,15 @@ El trabajo de visualización de datos **implica el conocimiento de muchas discip
 
 Trabajar en visualización de datos implica: 
 
-- **Análisis de datos**: con mucha frecuencia, y casi en la totalidad de casos, la visualización nunca es un camino de una sola dirección. Disponer de la información de forma gráfica siempre despierta nuevas cuestiones y preguntas a resolver querequieren volver al análisis de datos para refinar, acotar, o recalcular métricas de interés. El visualizador de datos no sólo debe saber "dibujar", sino también **comprender numérica y estadísticamente cuál es el mensaje** que se desea transmitir. 
+- **Análisis de datos**: con mucha frecuencia, y casi en la totalidad de casos, la visualización nunca es un camino de una sola dirección. Disponer de la información de forma gráfica siempre despierta nuevas cuestiones y preguntas a resolver que requieren volver al análisis de datos para refinar, acotar, o recalcular métricas de interés. El visualizador de datos no sólo debe saber "dibujar", sino también **comprender numérica y estadísticamente cuál es el mensaje** que se desea transmitir. 
 
-- **Geometría**: la elección de las formas más adecuadas para la descripción de datos de forma gráfica es fundamental. Estas formas suelen seguir patrones geométricos que **es importante conocer desde un punto de vista matemático** para conocer sus posibilidades . La visualización debe poder soportar todo el espectro de datos que manejamos, por lo que resulta importante adaptar la geometría a los mínimos y máximos.
+- **Geometría**: la elección de las formas más adecuadas para la descripción de datos de forma gráfica es fundamental. Estas formas suelen seguir patrones geométricos que **es importante conocer desde un punto de vista matemático** para conocer sus posibilidades. La visualización debe poder soportar todo el espectro de datos que manejamos, por lo que resulta importante adaptar la geometría a los mínimos y máximos numéricos dentro del espectro de datos.
 
 - **Diseño gráfico**: la estética, tanto de formas como de colores, es una moda y está estrechamente ligada al momento cultural en el que se vive. El **conocimiento de determinados códigos visuales**, así como la interpretación de cada sociedad sobre el significado de los colores juegan un papel muy importante en el diseño de visualizaciones de datos.
 
 - **Periodismo**: todo proyecto de visualización de datos se enmarca dentro de una narrativa. Esta narrativa obedece a criterios periodísticos a la hora de maquetar y redactar todo lo referente a la visualización. **La historia debe fluir y debe ser igualmente rigurosa** a la hora crear todos los contenidos alrededor del elemento gráfico.
 
-- **Desarrollo Web**: vivimos en un momento en el cual el consumo de información se realiza de forma digital, de forma que es necesario el manejo de determinadas tecnologías que nos permitan **crear y difundir esas piezas gráficas en los formatos digitales** conocidos actualmente. Soluciones y prototipos pueden, a veces, no ser realistas a la hora de implementarlos en un frontal web, bien sea por la cantidad de puntos a representar o bien por una respuesta o interactividad que los navegadores no son capaces de seguir, por poner dos ejemplos. 
+- **Desarrollo Web**: vivimos en un momento en el cual el consumo de información se realiza de forma digital, de forma que es necesario el manejo de determinadas tecnologías que nos permitan **crear y difundir esas piezas gráficas en los formatos digitales** conocidos actualmente. Hoy en día hay entornos web que permiten no solo mostrar visualizaciones sino también incluir interactividad, animación y toda una serie de efectos y transiciones para crear una narrativa, o storytelling. 
 
 
 *************************************************************************************************************
@@ -393,9 +395,18 @@ Dentro de los tipos de visualizaciones, se detallan los elementos que constituye
 {{|>}}
 *************************************************************************************************************
 
-Los datos abiertos suelen presentarse en un **amplio espectro de formatos**, dependiendo del organismo que los publica y de los medios por los cuales los ha obtenido. A pesar de esta diversidad , el mundo de la visualización de datos suele ceñirse a un subconjunto de formatos. En concerto, se centra en aquellos que aseguran **facilidad de lectura dentro de unos estándares** y, sobre todo, para **acceso  de forma estructurada**, para así poder repetir patrones para cada entrada en el fichero de los datos. 
+Los datos abiertos suelen presentarse en un **amplio espectro de formatos**, dependiendo del organismo que los publica y de los medios por los cuales los ha obtenido. A pesar de esta diversidad, el mundo de la visualización de datos suele ceñirse a un subconjunto de formatos. En concreto, se centra en aquellos que aseguran **facilidad de lectura dentro de unos estándares** y, sobre todo, para el **acceso  de forma estructurada**, para así poder repetir patrones para cada entrada en el fichero de los datos. 
 
-Los formatos más comunes son los siguientes: 
+En esta sección y en las siguientes incorporamos herramientas para poder abordar y trabajar sobre los conceptos que se explican. Las herramientas proporcionadas son de acceso gratuito y permiten familiarizarnos con los formatos planteados. 
+
+  <div class="aviso_caja">
+	<div class="aviso_titulo">
+		⚠️ Aviso
+	</div>
+	<div class="aviso_contenido">
+El conjunto de formatos presentado aquí representa la mayor parte de datos con un número pequeño o moderado de entradas. La explosión del big data ha traído consigo la creación de nuevos formatos tales como bases de datos o como el formato .parquet, por ejemplo, que pueden contener millones de entradas y por lo tanto son formatos difíciles de manejar por herramientas tradicionales de análisis y visualización, y que necesitan de software específico. 
+	</div>
+</div>
 
 *************************************************************************************************************
 
@@ -406,7 +417,7 @@ Los formatos más comunes son los siguientes:
 {{|>}}
 *************************************************************************************************************
 
-Estas siglas esconden un acrónimo en inglés equivalente respectivamente a **Comma Separated Value** (CSV), **Tab Separated Value** (TSV) o **Text** (TXT), que puede adoptar la forma tanto del CSV como del TSV. En estos casos los datos se disponen en hileras cuyas columnas están separadas por comas dentro de cada fila. Al tener siempre el mismo carácter diferenciador, bien sea la coma o la tabulación, es muy fácil para lenguajes como Python o R interpretar el contenido del fichero de entrada y estructurarlo acorde con esos separadores
+Estas siglas esconden un acrónimo en inglés equivalente respectivamente a **Comma Separated Value** (CSV), **Tab Separated Value** (TSV) o **Text** (TXT), que puede adoptar la forma tanto del CSV como del TSV. En estos casos los datos se disponen en hileras cuyas columnas están separadas bien por comas (CSV), bien por tabulaciones (TSV) dentro de cada fila. Al tener siempre el mismo carácter diferenciador, bien sea la coma o la tabulación, es muy fácil para lenguajes como Python o R interpretar el contenido del fichero de entrada y estructurarlo acorde con esos separadores.
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
@@ -448,15 +459,6 @@ Estas siglas significan **JavaScript Object Notation**, y hacen referencia a una
 
 La existencia de hojas de cálculo online permite igualmente la **lectura de tales ficheros directamente sin ningún tipo de herramienta intermedia** como Python o R. Referenciada por una identificación única a la cual se le llama dentro de su URL, estas hojas de cálculo **pueden ser leídas por JavaScript** para crear visualizaciones a partir de la información contenida en sus filas y columnas. 
 
-  <div class="aviso_caja">
-	<div class="aviso_titulo">
-		⚠️ Aviso
-	</div>
-	<div class="aviso_contenido">
-Este conjunto de casos representa la mayor parte de datos con número pequeño o moderado de entradas. La explosión del big data ha traído consigo la creación de nuevos formatos tales como la lectura directa de bases de datos como el formato .parquet, por ejemplo, que pueden contener millones de entradas y por lo tanto formatos difíciles de manejar por herramientas tradicionales de análisis y que necesitan de software específico. 
-	</div>
-</div>
-
 <div class="destacado_caja">
   <div class="destacado_titulo">
     Herramientas
@@ -465,12 +467,11 @@ Este conjunto de casos representa la mayor parte de datos con número pequeño o
     <div class="destacado_contenido" style="flex:1; min-width:300px;">
      <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Python</p>
-			Python es uno de los lenguajes más utilizados en análisis de datos. Permite la lectura de un amplio rango de ficheros de datos, así como 
-		 su procesamiento, análisis y conversión de formato para todo tipo de aplicaciones. 
+			Python es uno de los lenguajes más utilizados en análisis de datos. Permite la lectura de un amplio rango de ficheros de datos, así como su procesamiento, análisis y conversión de formato para todo tipo de aplicaciones. 
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">R</p>
-			Lenguaje de programación libre muy utilizado en estadística y análisis de datos. Dispone de un amplio ecosistema de paquetes que permiten trabajar con datos públicos de forma reproducible y transparente
+			Lenguaje de programación libre muy utilizado en estadística y análisis de datos. Dispone de un amplio ecosistema de paquetes que permiten trabajar con datos públicos de forma reproducible y transparente.
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Excel</p>
@@ -478,7 +479,7 @@ Este conjunto de casos representa la mayor parte de datos con número pequeño o
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Google Sheets</p>
-			Es una aplicación de hoja de cálculo basada en la web que permite organizar, analizar y compartir datos de manera eficiente, facilitando la colaboración en tiempo real entre múltiples usuarios
+			Es una aplicación de hoja de cálculo basada en la web que permite organizar, analizar y compartir datos de manera eficiente, facilitando la colaboración en tiempo real entre múltiples usuarios.
       </div>
     </div>
   </div>
@@ -527,7 +528,7 @@ Tiene su origen en el scatter plot, **círculos posicionados en un plano cartesi
 
 **Treemap**
 
-Muy popular para datos económicos, el treemap **distribuye un espacio limitado en parcelas** cuyo tamaño es proporcional a la magnitud en estudio. De esta forma es directamente comparable el valor de diferentes categorías y es posible explorar  el color como otro eje de información adicional. 
+Muy popular para datos económicos. El treemap **distribuye un espacio limitado en parcelas** cuyo tamaño es proporcional a la magnitud en estudio. De esta forma es directamente comparable el valor de diferentes categorías y es posible explorar el color como otro eje de información adicional. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
@@ -636,7 +637,7 @@ Los ejes cartesianos, x e y, permiten asociar la **dimensión temporal al eje X,
 
 **Ejes Verticales**
 
-El **scroll vertical de los dispositivos digitales** ha permitido la creación de diagramas para las series temporales aprovechando esta circunstancia, y por lo tanto habilitando una gran longitud para el eje temporal. Asociando el eje temporal al eje Y en dirección vertical, se pueden desarrollar narrativas largas y continuas,  plenamente adaptadas a la forma de navegación de los contenidos digitales.
+El **scroll vertical de los dispositivos digitales** ha permitido la creación de diagramas para las series temporales aprovechando esta circunstancia, y por lo tanto habilitando una gran longitud para el eje temporal. Asociando el eje temporal al eje Y en dirección vertical, se pueden desarrollar narrativas largas y continuas, plenamente adaptadas a la forma de navegación de los contenidos digitales.
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
@@ -662,7 +663,7 @@ Siguiendo la tradición más oriental y redundando en la recursividad del tiempo
 
 **Sankey**
 
-La **transmisión de flujos** de unos nodos a otros adopta su mejor expresión en los llamados diagramas de Sankey. En ellos la anchura de una línea se descompone en todos aquellos componentes a los cuales aporta valor o magnitud, otorgando una comprensión inmediata de cuáles son esos flujos. 
+La **transmisión de flujos** de unos nodos a otros adopta su mejor expresión en los llamados diagramas de Sankey. Un diagrama de Sankey es una representación gráfica en la que los flujos entre distintos nodos se muestran mediante líneas cuya anchura es proporcional a la magnitud del flujo, permitiendo visualizar cómo se distribuye una cantidad desde un origen hacia uno o varios destinos. Se utiliza mucho para flujos de energía, recursos o presupuestos (de dónde vienen y a dónde van los fondos). 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
@@ -749,7 +750,7 @@ La más básica de esas representaciones es una **estructura en árbol** en la c
 
 **Nodos Radiales**
 
-Aprovechando el desarrollo de nuevas propuestas gráficas y la capacidad del lenguaje para dar forma, nace el diagrama de nodos radiales. Este tipo de gráfico adopta una **orientación radial de dentro hacia afuera**, resultando especialmente eficaz  cuando el número de elementos es muy alto, ya que permite que y los subconjuntos o subcategorías se desplieguen en más y más ramas radiales. 
+Aprovechando el desarrollo de nuevas propuestas gráficas y la capacidad del lenguaje para dar forma, nace el diagrama de nodos radiales. Este tipo de gráfico adopta una **orientación radial de dentro hacia afuera**, resultando especialmente eficaz cuando el número de elementos es muy alto, ya que permite que y los subconjuntos o subcategorías se desplieguen en más y más ramas radiales. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
@@ -853,7 +854,7 @@ Determinados productos satelitales o modelos numéricos para el estudio del sist
 
 **Contornos**
 
-La **interpolación entre valores adyacentes** en una superficie permite crear contornos, a modo de curvas de nivel, para describir a base de curvas una magnitud que cambia en el espacio. De esta forma, se pueden asociar grosores de esas curvas o colores de relleno  para asociar a cada punto en el espacio un determinado valor o magnitud. 
+La **interpolación entre valores adyacentes** en una superficie permite crear contornos, a modo de curvas de nivel, para describir a base de curvas una magnitud que cambia en el espacio. De esta forma, se pueden asociar grosores de esas curvas o colores de relleno para asociar a cada punto en el espacio un determinado valor o magnitud. 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
@@ -1061,15 +1062,19 @@ La irrupción de la inteligencia artificial (IA) ha revolucionado la creación d
     <div class="destacado_contenido" style="flex:1; min-width:300px;">
       <div>
         <p class="subtitulo subtitulo_borde">React</p>
+		   Es una biblioteca de JavaScript de código abierto utilizada para construir interfaces de usuario, especialmente en aplicaciones web y móviles. Permite crear componentes reutilizables que facilitan el desarrollo de aplicaciones interactivas.
       </div>
       <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Angular</p>
+		   Es un framework de desarrollo web de código abierto gestionado por Google, que permite crear aplicaciones web dinámicas utilizando HTML, CSS y JavaScript. Su arquitectura se basa en componentes, lo que facilita la reutilización y el mantenimiento del código.
       </div>
 		      <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Vue.js</p>
+				  Es un framework de JavaScript de código abierto utilizado para construir interfaces de usuario y aplicaciones de una sola página. Se caracteriza por su arquitectura progresiva, lo que permite integrarlo de manera gradual en proyectos existentes.
       </div>
 		      <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Svelte</p>
+				  Es un framework de JavaScript diseñado para desarrollar interfaces de usuario, que se compila en componentes optimizados para ejecutarse en el navegador. A diferencia de otros frameworks, Svelte no utiliza un virtual DOM, lo que permite una ejecución más rápida y eficiente.
       </div>
     </div>
   </div>
@@ -1103,6 +1108,7 @@ Una de estas iniciativas es Observable, donde es posible crear **visualizaciones
     <div class="destacado_contenido" style="flex:1; min-width:300px;">
       <div>
         <p class="subtitulo subtitulo_borde">Observable</p>
+		Es una plataforma en línea donde puedes escribir, ejecutar y compartir código JavaScript en tiempo real, especialmente útil para la visualización de datos en D3.js y la creación de paneles.
       </div>
     </div>
   </div>
@@ -1209,7 +1215,7 @@ Indica cuáles de las siguientes afirmaciones sobre la visualización son verdad
 
 > - Desde el origen de la civilización, la visualización de datos ha estado en **constante evolución** respondiendo a la cantidad y a la variedad de datos que el ser humano ha sido capaz de recopilar. 
 
-> - Durante los últimos dos siglos ha habido una revolución, tanto estética como técnica, esta última gracias al vertiginoso aumento de la **capacidad de computación**. 
+> - Durante los últimos dos siglos ha habido una revolución, tanto estética como técnica, gracias al vertiginoso aumento de la **capacidad de computación** y el desarrollo de potentes herramientas de diseño y de tratamiento de grandes cantidades de datos. 
 
 > - A día de hoy, disponemos de potentes herramientas para representar todo el espectro de visualizaciones necesarias tanto para el ámbito periodístico como empresarial, incluyendo **magnitudes, series temporales, nodos y cartografía**. 
 
