@@ -879,6 +879,7 @@ Tradicionalmente realizado con hexágonos, la **clusterización en polígonos re
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">KeplerGL</p>
+			Es una herramienta web gratuita y de código abierto que permite arrastrar y soltar archivos en formatos como CSV, GeoJSON o Shapefile y obtener visualizaciones de forma inmediata
       </div>
 		<div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">Python</p>
