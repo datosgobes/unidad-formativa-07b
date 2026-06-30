@@ -379,16 +379,16 @@ En esta sección abordaremos la definición de **los elementos necesarios** para
 
 En la primera parte se explican las **definiciones y estructura de los formatos de datos** más populares y de uso más frecuente dentro del desarrollo de proyectos de visualización. En concreto estos formatos son: 
 
-- CSV, TSV y TXT
-- JSON
-- GoogleSheets
+- **CSV, TSV y TXT**
+- **JSON**
+- **GoogleSheets**
 
 Dentro de los tipos de visualizaciones, se detallan los elementos que constituyen **las cuatro grandes familias de visualización contemporánea** y dentro de las cuales se agrupan la mayoría de las visualizaciones que podemos desarrollar. Igualmente, las **visualizaciones que vemos día a día** tanto en los entornos de prensa como corporativos pueden asociarse a alguna de estas familias, ofreciendo **diferentes posibilidades para representar los datos** de forma diferente. Estas familias son: 
 
-- Magnitudes
-- Series temporales
-- Nodos y jerarquías
-- Mapas y cartografía
+- **Magnitudes**
+- **Series temporales**
+- **Nodos y jerarquías**
+- **Mapas y cartografía**
 
 ### Formatos de datos para visualización
 
@@ -440,7 +440,7 @@ La existencia de hojas de cálculo online permite igualmente la **lectura de tal
 
 <div class="destacado_caja">
   <div class="destacado_titulo">
-    Herramientas
+    Herramientas de formateo
   </div>
   <div style="display:flex; flex-wrap:wrap;">
     <div class="destacado_contenido" style="flex:1; min-width:300px;">
@@ -559,7 +559,7 @@ Gráfico que representa múltiples variables mediante **ejes que se extienden de
 
 <div class="destacado_caja">
   <div class="destacado_titulo">
-    Herramientas
+    Herramientas para visualizar magnitudes
   </div>
   <div style="display:flex; flex-wrap:wrap;">
     <div class="destacado_contenido" style="flex:1; min-width:300px;">
@@ -655,7 +655,7 @@ La **transmisión de flujos** de unos nodos a otros adopta su mejor expresión e
 
 <div class="destacado_caja">
   <div class="destacado_titulo">
-    Herramientas
+    Herramientas para visualizar series temporales
   </div>
   <div style="display:flex; flex-wrap:wrap;">
     <div class="destacado_contenido" style="flex:1; min-width:300px;">
@@ -742,7 +742,7 @@ Aprovechando el desarrollo de nuevas propuestas gráficas y la capacidad del len
 
 <div class="destacado_caja">
   <div class="destacado_titulo">
-    Herramientas
+    Herramientas para visualizar nodos
   </div>
   <div style="display:flex; flex-wrap:wrap;">
     <div class="destacado_contenido" style="flex:1; min-width:300px;">
@@ -872,7 +872,7 @@ Tradicionalmente realizado con hexágonos, la **clusterización en polígonos re
 
 <div class="destacado_caja">
   <div class="destacado_titulo">
-    Herramientas
+    Herramientas para visualizar mapas
   </div>
   <div style="display:flex; flex-wrap:wrap;">
     <div class="destacado_contenido" style="flex:1; min-width:300px;">
