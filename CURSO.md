@@ -419,7 +419,9 @@ El conjunto de formatos presentado aquí representa la mayor parte de <b>datos c
 	</div>
 </div>
 
-**CSV, TSV, TXT**
+<div class="concepto">
+		CSV, TSV, TXT
+</div>
 
 Estas siglas esconden un acrónimo en inglés equivalente respectivamente a **Comma Separated Value** (CSV), **Tab Separated Value** (TSV) o **Text** (TXT), que puede adoptar la forma tanto del CSV como del TSV. En estos casos los datos se disponen en hileras cuyas columnas están separadas bien por comas (CSV), bien por tabulaciones (TSV) dentro de cada fila. Al tener siempre el mismo carácter diferenciador, bien sea la coma o la tabulación, es muy fácil para lenguajes como Python o R interpretar el contenido del fichero de entrada y estructurarlo acorde con esos separadores.
 
@@ -433,7 +435,9 @@ Estas siglas esconden un acrónimo en inglés equivalente respectivamente a **Co
 	</div>
 </div>
 
-**JSON**
+<div class="concepto">
+		JSON
+</div>
 
 Estas siglas significan **JavaScript Object Notation**, y hacen referencia a una estructura de datos donde los valores y magnitudes vienen **en forma de pares**, donde a una categoría se asocia un valor. Estas estructuras pueden agruparse en cadenas o arrays de elementos. Su desarrollo estuvo motivado por el intercambio de información necesario para nutrir las páginas web y los navegadores, y ha acabado por convertirse en un estándar válido también fuera de estos ámbitos. 
 
@@ -516,7 +520,9 @@ Las visualizaciones se suelen distribuir en cuatro grandes familias:
 
 Las magnitudes hacen referencia a **conjuntos de valores discretos e independientes**, que no están vinculados por una dimensión temporal ni están jerarquizados. Suelen ser datos que se presentan asociados a un número determinado de categorías. La intensidad, tamaño o peso se representa mediante proporciones geométricas.
 
-**Burbujas**
+<div class="concepto">
+		Burbujas
+</div>
 
 Tiene su origen en el scatter plot, **círculos posicionados en un plano cartesiano**. La independencia de esos ejes, gracias a herramientas modernas para calcular posiciones relativas, ha hecho de los diagramas de burbujas una propuesta muy atractiva, ya que permite añadir dimensiones de información, no sólo al radio, sino también al color o a la transparencia. 
 
@@ -529,7 +535,9 @@ Tiene su origen en el scatter plot, **círculos posicionados en un plano cartesi
 	</div>
 </div>
 
-**Treemap**
+<div class="concepto">
+		Treemap
+</div>
 
 Muy popular para datos económicos. El treemap **distribuye un espacio limitado en parcelas** cuyo tamaño es proporcional a la magnitud en estudio. De esta forma es directamente comparable el valor de diferentes categorías y es posible explorar el color como otro eje de información adicional. 
 
@@ -542,7 +550,9 @@ Muy popular para datos económicos. El treemap **distribuye un espacio limitado 
 	</div>
 </div>
 
-**Voronoi**
+<div class="concepto">
+		Voronoi
+</div>
 
 Semejante al treemap, pero utilizando a la inversa el cálculo de Voronoi de los **puntos equidistantes a los límites de un espacio definido por celdas**, o polígonos de Thiessen. De esta forma se distribuye el espacio en celdas cuya superficie es proporcional al valor de cada categoría.  
 
@@ -555,7 +565,9 @@ Semejante al treemap, pero utilizando a la inversa el cálculo de Voronoi de los
 	</div>
 </div>
 
-**Paths**
+<div class="concepto">
+		Paths
+</div>
 
 Gráfico utilizado para representar **trayectorias uniendo puntos mediante líneas** que reflejan el movimiento o la evolución de un fenómeno, ya sea en el espacio o en el tiempo.  Permiten un diseño más creativo a la hora de crear representaciones gráficas, siempre que se guarde un principio de proporcionalidad, bien en la forma o en la gradación de color. 
 
@@ -568,7 +580,9 @@ Gráfico utilizado para representar **trayectorias uniendo puntos mediante líne
 	</div>
 </div>
 
-**Araña**
+<div class="concepto">
+		Araña
+</div>
 
 Gráfico que representa múltiples variables mediante **ejes que se extienden desde un centro común**, formando una figura poligonal que permite visualizar y comparar perfiles o distribuciones de datos de manera global. El polígono resultante de la unión de todos los puntos por eje crea el llamado diagrama de araña, y en determinadas ocasiones se puede otorgar algún significado al volumen resultante del polígono. 
 
@@ -625,7 +639,9 @@ Gráfico que representa múltiples variables mediante **ejes que se extienden de
 *************************************************************************************************************
 Una serie temporal es una **representación cronológica de eventos** para que se entienda qué pasó y cuándo de una serie de hitos. Es una de las más antiguas representaciones de información de forma visual para las series temporales son los **ejes cartesianos y sus variantes**. Esta representación se apoya en la interpretación que hace la cultura occidental sobre la **linealidad del tiempo**, en comparación con la circularidad o recursividad de la dimensión temporal en las culturas orientales. De esta forma, existen diversas formas de representar el tiempo que enumeramos aquí.  
 
-**Ejes Cartesianos**
+<div class="concepto">
+		Ejes cartesianos
+</div>
 
 Los ejes cartesianos, x e y, permiten asociar la **dimensión temporal al eje X**, mientras que la magnitud asociada a cada intervalo temporal se representa en el eje Y. A partir de ahí, se pueden dibujar puntos, líneas o áreas, si el volumen integrado bajo la línea tiene algún tipo de información relevante. 
 
@@ -638,7 +654,9 @@ Los ejes cartesianos, x e y, permiten asociar la **dimensión temporal al eje X*
 	</div>
 </div>
 
-**Ejes Verticales**
+<div class="concepto">
+		Ejes verticales
+</div>
 
 El **scroll vertical de los dispositivos digitales** ha permitido la creación de diagramas para las series temporales aprovechando esta circunstancia, y por lo tanto habilitando una gran longitud para el eje temporal. Asociando el eje temporal al eje Y en dirección vertical, se pueden desarrollar narrativas largas y continuas, plenamente adaptadas a la forma de navegación de los contenidos digitales.
 
@@ -651,7 +669,9 @@ El **scroll vertical de los dispositivos digitales** ha permitido la creación d
 	</div>
 </div>
 
-**Ejes Radiales**
+<div class="concepto">
+		Ejes radiales
+</div>
 
 Siguiendo la tradición más oriental y redundando en la recursividad del tiempo, es posible **dibujar el eje temporal en forma de círculo**. De este modo, el calendario adopta una forma igualmente lógica y muy atractiva para describir eventos asociados al calendario.  
 
@@ -664,7 +684,9 @@ Siguiendo la tradición más oriental y redundando en la recursividad del tiempo
 	</div>
 </div>
 
-**Sankey**
+<div class="concepto">
+		Sankey
+</div>
 
 La **transmisión de flujos** de unos nodos a otros adopta su mejor expresión en los llamados diagramas de Sankey. Un diagrama de Sankey es una representación gráfica en la que los flujos entre distintos nodos se muestran mediante líneas cuya anchura es proporcional a la magnitud del flujo, permitiendo visualizar cómo se distribuye una cantidad desde un origen hacia uno o varios destinos. Se utiliza mucho para flujos de energía, recursos o presupuestos (de dónde vienen y a dónde van los fondos). 
 
