@@ -268,6 +268,15 @@ La revolución digital ha traído consigo, no solo el **desarrollo de potentes h
 
  📖[ Fuente](https://www.edwardtufte.com/book/beautiful-evidence/)
 
+ <div class="masinfo_caja">
+	<div class="masinfo_titulo">
+		ℹ️ Más información
+	</div>
+	<div class="masinfo_contenido">
+- <a href="https://www.edwardtufte.com/book/the-visual-display-of-quantitative-information/?_gl=1*uzj41e*_up*MQ..*_ga*NDI3Njk5Mjc4LjE3ODI5MTczNDg.*_ga_JCT37YWSC9*czE3ODI5MTczNDYkbzEkZzEkdDE3ODI5MTczODIkajI0JGwwJGgw">The Visual Display of Quantitative Information, de Edward R. Tufte</a>
+  </div>
+</div>
+
 *************************************************************************************************************
 
 <!-- id="ejercicio_0" -->
@@ -484,6 +493,19 @@ Las visualizaciones se suelen distribuir en cuatro grandes familias:
 - Redes, nodos y jerarquías 
 - Mapas y cartografía
 
+ 📖[ Fuente](https://www.albertocairo.com/)
+
+<div class="masinfo_caja">
+	<div class="masinfo_titulo">
+		ℹ️ Más información
+	</div>
+	<div class="masinfo_contenido">
+- <a href="https://flowingdata.com/books/">Literatura diversa sobre visualización, de Nathan Yau</a>
+- <a href="https://www.visualcinnamon.com/chart/">Chart, de Nadieh Bremer</a>
+- <a href="https://www.analyticspress.com/smtn.php">Show Me The Numbers, de Stephen Few</a>
+  </div>
+</div>
+ 
 *************************************************************************************************************
 
 <!-- id="vis_1" -->
