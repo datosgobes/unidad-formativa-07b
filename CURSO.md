@@ -760,7 +760,9 @@ La **transmisión de flujos** de unos nodos a otros adopta su mejor expresión e
 
 Con el desarrollo de **sistemas complejos interconectados** y de las interdependencias entre esos nodos, se ha desarrollado todo un campo de la visualización como es el de redes y jerarquías. Este ámbito se ocupa de representar elementos interconectados que aportan además información de las relaciones entre esos elementos.   
 
-**Nodos**
+<div class="concepto">
+		Nodos
+</div>
 
 La más básica de esas representaciones es una **estructura en árbol** en la cual las ramas se despliegan a medida que crece el número de nodos. Este diagrama acepta tanto las orientaciones tanto horizontal como vertical 
 
@@ -773,7 +775,9 @@ La más básica de esas representaciones es una **estructura en árbol** en la c
 	</div>
 </div>
 
-**Nodos Radiales**
+<div class="concepto">
+		Nodos radiales
+</div>
 
 Aprovechando el desarrollo de nuevas propuestas gráficas y la capacidad del lenguaje para dar forma, nace el diagrama de nodos radiales. Este tipo de gráfico adopta una **orientación radial de dentro hacia afuera**, resultando especialmente eficaz cuando el número de elementos es muy alto, ya que permite que y los subconjuntos o subcategorías se desplieguen en más y más ramas radiales. 
 
@@ -825,7 +829,9 @@ El mundo de los mapas y la cartografía es un universo en sí mismo, con **siglo
 
 Las formas de representación geográfica son numerosas; se citan algunas de ellas en esta sección.  
 
-**Puntos**
+<div class="concepto">
+		Puntos
+</div>
 
 Dentro de la tradición, representar localizaciones o eventos **a través de la latitud y la longitud** sigue siendo un clásico que funciona en todos los ámbitos. 
 
@@ -838,7 +844,9 @@ Dentro de la tradición, representar localizaciones o eventos **a través de la 
  	</div>
 </div>
 
-**Trayectorias**
+<div class="concepto">
+		Trayectorias
+</div>
 
 Las rutas, especialmente las correspondientes al transporte aéreo o marítimo, suelen contar con **datos muy detallados sobre su posición en el tiempo**. Esto permite trazar sus trayectorias con ayuda de líneas sobre un fondo cartográfico. 
 
@@ -851,7 +859,9 @@ Las rutas, especialmente las correspondientes al transporte aéreo o marítimo, 
 	</div>
 </div>
 
-**Coropletas**
+<div class="concepto">
+		Coropletas
+</div>
 
 La división del territorio en márgenes y límites de diversa índole, tales como países, regiones, comunidades o distritos, permite asociar valores a estas unidades y **visualizar el terreno en forma de polígonos** con colores o distintos niveles de transparencia según los datos asociados. 
 
@@ -864,7 +874,9 @@ La división del territorio en márgenes y límites de diversa índole, tales co
 	</div>
 </div>
 
-**Teselas (Tiles)**
+<div class="concepto">
+		Teselas (Tiles)
+</div>
 
 Determinados productos satelitales o modelos numéricos para el estudio del sistema terrestre ofrecen **datos promediados para regiones regulares** en forma de malla que cubren toda o parte de la superficie terrestre. De acuerdo con estas mallas, es posible proyectar sobre un mapa esos polígonos regularmente distribuidos para visualizar la información que ofrecen esos satélites o modelos.  
 
@@ -877,7 +889,9 @@ Determinados productos satelitales o modelos numéricos para el estudio del sist
 	</div>
 </div>
 
-**Contornos**
+<div class="concepto">
+		Contornos
+</div>
 
 La **interpolación entre valores adyacentes** en una superficie permite crear contornos, a modo de curvas de nivel, para describir a base de curvas una magnitud que cambia en el espacio. De esta forma, se pueden asociar grosores de esas curvas o colores de relleno para asociar a cada punto en el espacio un determinado valor o magnitud. 
 
@@ -890,7 +904,9 @@ La **interpolación entre valores adyacentes** en una superficie permite crear c
 	</div>
 </div>
 
-**Tres dimensiones**
+<div class="concepto">
+		Tres dimensiones
+</div>
 
 El incremento de **la capacidad computacional** ha permitido el desarrollo en las últimas décadas de aplicaciones ágiles y muy efectivas para visualizar la tercera dimensión (Z) sobre cartografías existentes. 
 
@@ -903,7 +919,9 @@ El incremento de **la capacidad computacional** ha permitido el desarrollo en la
 	</div>
 </div>
 
-**Agrupación (Binning)**
+<div class="concepto">
+		Agrupación (Binning)
+</div>
 
 Tradicionalmente realizado con hexágonos, la **clusterización en polígonos regulares** puede simplificar la representación de magnitudes o eventos en superficies, creando, de esta forma, patrones de mucha armonía visual y sin perder rigor de contenido.  
 
@@ -1077,7 +1095,7 @@ Este lenguaje también ha sido aprovechado para crear elementos visuales que com
 		⚠️ Aviso
 	</div>
 	<div class="aviso_contenido">
-La irrupción de la inteligencia artificial (IA) ha revolucionado la creación de los entornos de desarrollo web. Lo que antes era la elaboración de código por parte de especialistas llamados FrontEnd, haciendo referencia a la parte frontal y visible de la web, ha pasado a ser parcialmente automatizable por parte de los agentes de IA, que generan código donde albergar visualizaciones. La IA por lo tanto pasa a formar parte del elenco de herramientas disponibles para el desarrollo de frontales web. 
+La irrupción de la inteligencia artificial (IA) ha revolucionado la creación de los entornos de desarrollo web. Lo que antes era la elaboración de código por parte de especialistas llamados ingenieros de FrontEnd, haciendo referencia a la parte frontal y visible de la web, ha pasado a ser parcialmente <b>automatizable por parte de los agentes de IA</b> , que generan código donde albergar visualizaciones. <b>La IA por lo tanto pasa a formar parte del elenco de herramientas disponibles</b> para el desarrollo de frontales web. 
 	</div>
 </div>
 
