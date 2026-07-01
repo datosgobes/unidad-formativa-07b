@@ -429,6 +429,7 @@ Estas siglas esconden un acrónimo en inglés equivalente respectivamente a **Co
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
+		En la Figura 6 se muestra el contenido de un fichero CSV con información correspondiente a aeropuertos a escala global. En él se detallan las categorías en la primera fila, como por ejemplo su latitud, longitud, altitud, código IATA o la región y el país en el que se encuentran. En el resto de filas se ofrece la información con una fila para cada aeropuerto. 
 		<center>![Base de datos de aeropuertos con su código IATA, coordenadas y altitud en formato CSV](media/UD07_CSV.png "Figura 6. Base de datos de aeropuertos con su código IATA, coordenadas y altitud en formato CSV.")</center>
 	</div>
 </div>
@@ -442,6 +443,7 @@ Estas siglas significan **JavaScript Object Notation**, y hacen referencia a una
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
+		En la Figura 7 se observa la estructura de un fichero JSON. A diferencia de un CSV en este caso la información está ordenada por pares, de forma que una categoría tiene asociada un valor concreto. Estos pares se pueden anidar dentro de una estructura parent-children, lo que permite también crear jerarquías si la propia estructura de los datos lo necesitan. 
 	<center>![Base de datos de las categorías de los publicadores en el portal de datos.gob.es en formato JSON.](media/UD07_JSON.png "Figura 7. Base de datos de las categorías de los publicadores en el portal de datos.gob.es en formato JSON.")</center>
 	</div>
 </div>
@@ -500,8 +502,9 @@ Las visualizaciones se suelen distribuir en cuatro grandes familias:
 		ℹ️ Más información
 	</div>
 	<div class="masinfo_contenido">
-- <a href="https://flowingdata.com/books/">Literatura diversa sobre visualización, de Nathan Yau</a>
+- <a href="https://www.stefanieposavec.com/books">Literatura diversa sobre visualización, de Stefanie Posavec</a>	
 - <a href="https://www.visualcinnamon.com/chart/">Chart, de Nadieh Bremer</a>
+- <a href="https://flowingdata.com/books/">Literatura diversa sobre visualización, de Nathan Yau</a>
 - <a href="https://www.analyticspress.com/smtn.php">Show Me The Numbers, de Stephen Few</a>
   </div>
 </div>
@@ -661,7 +664,7 @@ Siguiendo la tradición más oriental y redundando en la recursividad del tiempo
 		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-					<center>![Ejes radiales](media/UD07_Arc.jpg "Figura 15. Ejes radialess. Fuente: [Tiziana Alocci](https://www.behance.net/gallery/164954871/Wired-UK-Infographic-SpaceX-Rockets)")</center>
+					<center>![Ejes radiales](media/UD07_Arc.jpg "Figura 15. Ejes radiales. Fuente: [Tiziana Alocci](https://www.behance.net/gallery/164954871/Wired-UK-Infographic-SpaceX-Rockets)")</center>
 	</div>
 </div>
 
